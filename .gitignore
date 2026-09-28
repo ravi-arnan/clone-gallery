@@ -1,0 +1,20 @@
+# clone-gallery monorepo: source + public assets ikut, build output dibuang
+node_modules/
+dist/
+.next/
+build/
+out/
+coverage/
+.DS_Store
+*.log
+.env
+.env.local
+vite.config.*.timestamp*
+
+# symlink rusak ke /mnt/external, jangan ikut push
+# (private scraped assets + target tidak kebaca saat ini)
+AtlasMotionClone
+blueyard-cloner
+bugatti-clone
+stripe-clone
+wazuh-dashboard-clone
