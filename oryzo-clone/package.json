@@ -1,0 +1,24 @@
+{
+  "name": "oryzo-clone",
+  "version": "1.0.0",
+  "description": "Authentic, fully animated clone of oryzo.ai with GSAP animations and 3D WebGL assets",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "inspect": "node scripts/inspect-site.mjs",
+    "download:assets": "python3 scripts/download-all-assets.py",
+    "check": "node scripts/verify.mjs"
+  },
+  "keywords": [
+    "clone",
+    "gsap",
+    "threejs",
+    "webgl",
+    "3d",
+    "lusion",
+    "oryzo"
+  ],
+  "author": "Ravi Arnan",
+  "license": "ISC"
+}

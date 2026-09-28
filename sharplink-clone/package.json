@@ -1,0 +1,23 @@
+{
+  "name": "sharplink-clone",
+  "version": "1.0.0",
+  "description": "Pixel-perfect clone of sharplink.com with GSAP animations, WebGL 3D ThreeLogoCanvas, DotLottie, and ETH productivity chart",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "build": "python3 scripts/build-localized-html.py",
+    "check": "node scripts/verify.mjs"
+  },
+  "keywords": [
+    "sharplink",
+    "clone",
+    "gsap",
+    "threejs",
+    "webgl",
+    "3d",
+    "lottie"
+  ],
+  "author": "Ravi Arnan <raviarnankeren@gmail.com>",
+  "license": "MIT"
+}

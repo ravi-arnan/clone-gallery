@@ -1,0 +1,257 @@
+{
+  "title": "Pear — not an agency on the clock, a partner in the upside",
+  "meta": [
+    {
+      "name": null,
+      "property": null,
+      "content": null
+    },
+    {
+      "name": "viewport",
+      "property": null,
+      "content": "width=device-width, initial-scale=1.0"
+    },
+    {
+      "name": "color-scheme",
+      "property": null,
+      "content": "only light"
+    },
+    {
+      "name": "theme-color",
+      "property": null,
+      "content": "#0b0a09"
+    },
+    {
+      "name": "description",
+      "property": null,
+      "content": "Pear makes you appear. Data-driven SEO, tailored software and revenue-share partnerships. Grow your traffic and outrun your competitors."
+    },
+    {
+      "name": "robots",
+      "property": null,
+      "content": "index, follow"
+    },
+    {
+      "name": null,
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "name": null,
+      "property": "og:site_name",
+      "content": "Pear"
+    },
+    {
+      "name": null,
+      "property": "og:url",
+      "content": "https://pear.no/"
+    },
+    {
+      "name": null,
+      "property": "og:title",
+      "content": "Pear — not an agency on the clock, a partner in the upside"
+    },
+    {
+      "name": null,
+      "property": "og:description",
+      "content": "Pear makes you appear. Data-driven SEO, tailored software and revenue-share partnerships."
+    },
+    {
+      "name": null,
+      "property": "og:image",
+      "content": "https://pear.no/og.jpg"
+    },
+    {
+      "name": null,
+      "property": "og:image:width",
+      "content": "1200"
+    },
+    {
+      "name": null,
+      "property": "og:image:height",
+      "content": "630"
+    },
+    {
+      "name": null,
+      "property": "og:image:alt",
+      "content": "A neoclassical painting of a colossal golden pear on a marble pedestal under a cerulean sky"
+    },
+    {
+      "name": null,
+      "property": "og:locale",
+      "content": "en_US"
+    },
+    {
+      "name": "twitter:card",
+      "property": null,
+      "content": "summary_large_image"
+    },
+    {
+      "name": "twitter:title",
+      "property": null,
+      "content": "Pear — not an agency on the clock, a partner in the upside"
+    },
+    {
+      "name": "twitter:description",
+      "property": null,
+      "content": "Pear makes you appear. Data-driven SEO, tailored software and revenue-share partnerships."
+    },
+    {
+      "name": "twitter:image",
+      "property": null,
+      "content": "https://pear.no/og.jpg"
+    }
+  ],
+  "globals": {
+    "hasGSAP": false,
+    "hasScrollTrigger": false,
+    "hasThree": false,
+    "hasLenis": false,
+    "hasLottie": false
+  },
+  "scripts": [
+    {
+      "src": "",
+      "id": "",
+      "type": "application/ld+json",
+      "inlineSnippet": "\n      {\n        \"@context\": \"https://schema.org\",\n        \"@type\": \"Organization\",\n        \"name\": \"Pear\",\n        \"legalName\": \"Pear AS\",\n        \"identifier\": \"919 062 517\",\n        \"url\": \"https://pear.no/\",\n        \"logo\": \"https://pear.no/apple-touch-icon.png\",\n        \"image\": \"https://pear.n"
+    },
+    {
+      "src": "https://pear.no/assets/index-BhJdAf8K.js",
+      "id": "",
+      "type": "module",
+      "inlineSnippet": null
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "application/ld+json",
+      "inlineSnippet": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"What does it cost to work with Pear?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Nothing upfront and nothing hourly. We fund the strategy, the software, the content and the link building ourselves. Our payme"
+    }
+  ],
+  "links": [
+    {
+      "rel": "canonical",
+      "href": "https://pear.no/",
+      "as": "",
+      "type": ""
+    },
+    {
+      "rel": "icon",
+      "href": "https://pear.no/favicon.svg",
+      "as": "",
+      "type": "image/svg+xml"
+    },
+    {
+      "rel": "icon",
+      "href": "https://pear.no/favicon-32.png",
+      "as": "",
+      "type": "image/png"
+    },
+    {
+      "rel": "apple-touch-icon",
+      "href": "https://pear.no/apple-touch-icon.png",
+      "as": "",
+      "type": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://pear.no/assets/index-Bd_JnIbr.css",
+      "as": "",
+      "type": ""
+    }
+  ],
+  "canvases": [
+    {
+      "index": 0,
+      "className": "gl",
+      "id": "",
+      "width": 1440,
+      "height": 900,
+      "rect": {
+        "top": 0,
+        "left": 0,
+        "width": 1440,
+        "height": 900
+      },
+      "contextType": "webgl"
+    },
+    {
+      "index": 1,
+      "className": "fly",
+      "id": "",
+      "width": 1920,
+      "height": 1080,
+      "rect": {
+        "top": 0,
+        "left": 0,
+        "width": 1600,
+        "height": 900
+      },
+      "contextType": "2d"
+    },
+    {
+      "index": 2,
+      "className": "trans",
+      "id": "",
+      "width": 300,
+      "height": 150,
+      "rect": {
+        "top": 900,
+        "left": 0,
+        "width": 1440,
+        "height": 900
+      },
+      "contextType": "webgl2"
+    },
+    {
+      "index": 3,
+      "className": "ftx",
+      "id": "",
+      "width": 300,
+      "height": 150,
+      "rect": {
+        "top": 0,
+        "left": 0,
+        "width": 1440,
+        "height": 900
+      },
+      "contextType": "webgl2"
+    },
+    {
+      "index": 4,
+      "className": "lines",
+      "id": "",
+      "width": 1440,
+      "height": 900,
+      "rect": {
+        "top": 0,
+        "left": 0,
+        "width": 1440,
+        "height": 900
+      },
+      "contextType": "2d"
+    }
+  ],
+  "videos": [
+    {
+      "src": "https://pear.no/films/footer-loop.mp4",
+      "currentSrc": "https://pear.no/films/footer-loop.mp4",
+      "poster": "",
+      "autoplay": false,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "src": "https://pear.no/films/reveal.mp4",
+      "currentSrc": "https://pear.no/films/reveal.mp4",
+      "poster": "",
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    }
+  ],
+  "images": [],
+  "bodyClasses": "",
+  "htmlClasses": ""
+}

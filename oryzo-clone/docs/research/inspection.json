@@ -1,0 +1,574 @@
+{
+  "title": "ORYZO AI",
+  "meta": [
+    {
+      "name": null,
+      "property": null,
+      "content": null
+    },
+    {
+      "name": "viewport",
+      "property": null,
+      "content": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    },
+    {
+      "name": "description",
+      "property": null,
+      "content": "A physical product, reimagined for the AI era, proving even the smallest idea can feel extraordinary."
+    },
+    {
+      "name": "author",
+      "property": null,
+      "content": "Lusion"
+    },
+    {
+      "name": "robots",
+      "property": null,
+      "content": "index, follow"
+    },
+    {
+      "name": "theme-color",
+      "property": null,
+      "content": "#000000"
+    },
+    {
+      "name": "apple-mobile-web-app-title",
+      "property": null,
+      "content": "ORYZO AI"
+    },
+    {
+      "name": null,
+      "property": "og:title",
+      "content": "ORYZO AI"
+    },
+    {
+      "name": null,
+      "property": "og:description",
+      "content": "A physical product, reimagined for the AI era, proving even the smallest idea can feel extraordinary."
+    },
+    {
+      "name": null,
+      "property": "og:image",
+      "content": "https://oryzo.ai/meta/og_image.png"
+    },
+    {
+      "name": null,
+      "property": "og:url",
+      "content": "https://oryzo.ai/"
+    },
+    {
+      "name": null,
+      "property": "og:site_name",
+      "content": "ORYZO AI"
+    },
+    {
+      "name": null,
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "name": "twitter:card",
+      "property": null,
+      "content": "summary_large_image"
+    },
+    {
+      "name": "twitter:title",
+      "property": null,
+      "content": "ORYZO AI"
+    },
+    {
+      "name": "twitter:description",
+      "property": null,
+      "content": "A physical product, reimagined for the AI era, proving even the smallest idea can feel extraordinary."
+    },
+    {
+      "name": "twitter:image",
+      "property": null,
+      "content": "https://oryzo.ai/meta/og_image.png"
+    }
+  ],
+  "globals": {
+    "hasGSAP": false,
+    "hasScrollTrigger": false,
+    "hasThree": false,
+    "hasLenis": false
+  },
+  "scripts": [
+    {
+      "src": "https://static.cloudflareinsights.com/beacon.min.js",
+      "id": "",
+      "type": "",
+      "inlineSnippet": null
+    },
+    {
+      "src": "https://oryzo.ai/_astro/hoisted.CRsATKbF.js",
+      "id": "",
+      "type": "module",
+      "inlineSnippet": null
+    }
+  ],
+  "links": [
+    {
+      "rel": "canonical",
+      "href": "https://oryzo.ai/",
+      "as": "",
+      "type": ""
+    },
+    {
+      "rel": "icon",
+      "href": "https://oryzo.ai/meta/favicon-96x96.png",
+      "as": "",
+      "type": "image/png"
+    },
+    {
+      "rel": "icon",
+      "href": "https://oryzo.ai/meta/favicon.svg",
+      "as": "",
+      "type": "image/svg+xml"
+    },
+    {
+      "rel": "shortcut icon",
+      "href": "https://oryzo.ai/meta/favicon.ico",
+      "as": "",
+      "type": ""
+    },
+    {
+      "rel": "apple-touch-icon",
+      "href": "https://oryzo.ai/meta/apple-touch-icon.png",
+      "as": "",
+      "type": ""
+    },
+    {
+      "rel": "manifest",
+      "href": "https://oryzo.ai/meta/site.webmanifest",
+      "as": "",
+      "type": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://oryzo.ai/_astro/index.TL6TuoJb.css",
+      "as": "",
+      "type": ""
+    }
+  ],
+  "canvases": [
+    {
+      "index": 0,
+      "className": "",
+      "id": "canvas",
+      "width": 1440,
+      "height": 900,
+      "rect": {
+        "top": 0,
+        "left": 0,
+        "width": 1440,
+        "height": 900
+      },
+      "contextType": "webgl2"
+    },
+    {
+      "index": 1,
+      "className": "",
+      "id": "wearable-main-canvas",
+      "width": 571,
+      "height": 734,
+      "rect": {
+        "top": 83,
+        "left": 434.8125,
+        "width": 570.359375,
+        "height": 734
+      },
+      "contextType": "2d"
+    },
+    {
+      "index": 2,
+      "className": "",
+      "id": "features-curve-canvas",
+      "width": 1440,
+      "height": 900,
+      "rect": {
+        "top": 0,
+        "left": 0,
+        "width": 1440,
+        "height": 900
+      },
+      "contextType": "2d"
+    },
+    {
+      "index": 3,
+      "className": "",
+      "id": "sustainability-rive-canvas-harvesting",
+      "width": 495,
+      "height": 495,
+      "rect": {
+        "top": 41223,
+        "left": 387,
+        "width": 495,
+        "height": 495
+      },
+      "contextType": "2d"
+    },
+    {
+      "index": 4,
+      "className": "",
+      "id": "sustainability-rive-canvas-text",
+      "width": 321,
+      "height": 321,
+      "rect": {
+        "top": 41309.625,
+        "left": 986.625,
+        "width": 321.75,
+        "height": 321.75
+      },
+      "contextType": "2d"
+    },
+    {
+      "index": 5,
+      "className": "",
+      "id": "preloader-canvas",
+      "width": 1440,
+      "height": 900,
+      "rect": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "contextType": "2d"
+    }
+  ],
+  "videos": [
+    {
+      "src": "https://oryzo.ai/images/wearable-gallery/yoga.mp4",
+      "currentSrc": "https://oryzo.ai/images/wearable-gallery/yoga.mp4",
+      "poster": "",
+      "autoplay": false,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "src": "https://oryzo.ai/images/wearable-gallery/bite.mp4",
+      "currentSrc": "https://oryzo.ai/images/wearable-gallery/bite.mp4",
+      "poster": "",
+      "autoplay": false,
+      "loop": true,
+      "muted": true
+    }
+  ],
+  "images": [
+    {
+      "src": "https://oryzo.ai/images/video_thumb.webp",
+      "currentSrc": "https://oryzo.ai/images/video_thumb.webp",
+      "alt": "Video thumbnail",
+      "width": 320,
+      "height": 180,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/wearable-gallery/thumbs/intro.webp",
+      "currentSrc": "https://oryzo.ai/images/wearable-gallery/thumbs/intro.webp",
+      "alt": "",
+      "width": 340,
+      "height": 440,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/wearable-gallery/thumbs/yoga.webp",
+      "currentSrc": "https://oryzo.ai/images/wearable-gallery/thumbs/yoga.webp",
+      "alt": "",
+      "width": 340,
+      "height": 440,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/wearable-gallery/thumbs/shoulder.webp",
+      "currentSrc": "https://oryzo.ai/images/wearable-gallery/thumbs/shoulder.webp",
+      "alt": "",
+      "width": 340,
+      "height": 440,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/wearable-gallery/thumbs/bikini_on.webp",
+      "currentSrc": "https://oryzo.ai/images/wearable-gallery/thumbs/bikini_on.webp",
+      "alt": "",
+      "width": 340,
+      "height": 440,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/wearable-gallery/thumbs/glasses.webp",
+      "currentSrc": "https://oryzo.ai/images/wearable-gallery/thumbs/glasses.webp",
+      "alt": "",
+      "width": 340,
+      "height": 440,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/wearable-gallery/thumbs/bite.webp",
+      "currentSrc": "https://oryzo.ai/images/wearable-gallery/thumbs/bite.webp",
+      "alt": "",
+      "width": 340,
+      "height": 440,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/wearable-gallery/thumbs/pocket.webp",
+      "currentSrc": "https://oryzo.ai/images/wearable-gallery/thumbs/pocket.webp",
+      "alt": "",
+      "width": 340,
+      "height": 440,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/wearable-gallery/thumbs/outro.webp",
+      "currentSrc": "https://oryzo.ai/images/wearable-gallery/thumbs/outro.webp",
+      "alt": "",
+      "width": 340,
+      "height": 440,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/wearable-gallery/thumbs/intro.webp",
+      "currentSrc": "https://oryzo.ai/images/wearable-gallery/thumbs/intro.webp",
+      "alt": "",
+      "width": 340,
+      "height": 440,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/wearable-gallery/thumbs/yoga.webp",
+      "currentSrc": "https://oryzo.ai/images/wearable-gallery/thumbs/yoga.webp",
+      "alt": "",
+      "width": 340,
+      "height": 440,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/wearable-gallery/thumbs/shoulder.webp",
+      "currentSrc": "https://oryzo.ai/images/wearable-gallery/thumbs/shoulder.webp",
+      "alt": "",
+      "width": 340,
+      "height": 440,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/wearable-gallery/thumbs/bikini_on.webp",
+      "currentSrc": "https://oryzo.ai/images/wearable-gallery/thumbs/bikini_on.webp",
+      "alt": "",
+      "width": 340,
+      "height": 440,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/wearable-gallery/thumbs/glasses.webp",
+      "currentSrc": "https://oryzo.ai/images/wearable-gallery/thumbs/glasses.webp",
+      "alt": "",
+      "width": 340,
+      "height": 440,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/wearable-gallery/thumbs/bite.webp",
+      "currentSrc": "https://oryzo.ai/images/wearable-gallery/thumbs/bite.webp",
+      "alt": "",
+      "width": 340,
+      "height": 440,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/wearable-gallery/thumbs/pocket.webp",
+      "currentSrc": "https://oryzo.ai/images/wearable-gallery/thumbs/pocket.webp",
+      "alt": "",
+      "width": 340,
+      "height": 440,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/wearable-gallery/thumbs/outro.webp",
+      "currentSrc": "https://oryzo.ai/images/wearable-gallery/thumbs/outro.webp",
+      "alt": "",
+      "width": 340,
+      "height": 440,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/wearable-gallery/shoulder.webp",
+      "currentSrc": "https://oryzo.ai/images/wearable-gallery/shoulder.webp",
+      "alt": "",
+      "width": 850,
+      "height": 1100,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/wearable-gallery/bikini_on.webp",
+      "currentSrc": "https://oryzo.ai/images/wearable-gallery/bikini_on.webp",
+      "alt": "",
+      "width": 1064,
+      "height": 1376,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/wearable-gallery/bikini.webp",
+      "currentSrc": "https://oryzo.ai/images/wearable-gallery/bikini.webp",
+      "alt": "",
+      "width": 1064,
+      "height": 1376,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/wearable-gallery/glasses.webp",
+      "currentSrc": "https://oryzo.ai/images/wearable-gallery/glasses.webp",
+      "alt": "",
+      "width": 850,
+      "height": 1100,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/wearable-gallery/pocket.webp",
+      "currentSrc": "https://oryzo.ai/images/wearable-gallery/pocket.webp",
+      "alt": "",
+      "width": 850,
+      "height": 1100,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/testimonies/astronut_MOBILE.webp",
+      "currentSrc": "https://oryzo.ai/images/testimonies/astronut.webp",
+      "alt": "",
+      "width": 640,
+      "height": 480,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/testimonies/pirate_king_MOBILE.webp",
+      "currentSrc": "https://oryzo.ai/images/testimonies/pirate_king.webp",
+      "alt": "",
+      "width": 640,
+      "height": 480,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/testimonies/youtuber_MOBILE.webp",
+      "currentSrc": "https://oryzo.ai/images/testimonies/youtuber.webp",
+      "alt": "",
+      "width": 640,
+      "height": 480,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/testimonies/attention_MOBILE.webp",
+      "currentSrc": "https://oryzo.ai/images/testimonies/attention.webp",
+      "alt": "",
+      "width": 640,
+      "height": 480,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/testimonies/flat_earth_MOBILE.webp",
+      "currentSrc": "https://oryzo.ai/images/testimonies/flat_earth.webp",
+      "alt": "",
+      "width": 640,
+      "height": 480,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/social-content/edge_MOBILE.webp",
+      "currentSrc": "https://oryzo.ai/images/social-content/edge.webp",
+      "alt": "",
+      "width": 1700,
+      "height": 1080,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/social-content/sticker_1_MOBILE.webp",
+      "currentSrc": "https://oryzo.ai/images/social-content/sticker_1.webp",
+      "alt": "",
+      "width": 900,
+      "height": 1080,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/social-content/always_on_MOBILE.webp",
+      "currentSrc": "https://oryzo.ai/images/social-content/always_on.webp",
+      "alt": "",
+      "width": 1920,
+      "height": 1080,
+      "className": ""
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "currentSrc": "https://oryzo.ai/images/social-content/always_on_cover.webp",
+      "alt": "",
+      "width": 398,
+      "height": 283,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/social-content/color_MOBILE.webp",
+      "currentSrc": "https://oryzo.ai/images/social-content/color.webp",
+      "alt": "",
+      "width": 900,
+      "height": 1080,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/social-content/3090_MOBILE.webp",
+      "currentSrc": "https://oryzo.ai/images/social-content/3090.webp",
+      "alt": "",
+      "width": 2250,
+      "height": 1080,
+      "className": ""
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "currentSrc": "https://oryzo.ai/images/social-content/3090_cover.webp",
+      "alt": "",
+      "width": 588,
+      "height": 154,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/social-content/perfect_MOBILE.webp",
+      "currentSrc": "https://oryzo.ai/images/social-content/perfect.webp",
+      "alt": "",
+      "width": 900,
+      "height": 1080,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/social-content/drop_test_MOBILE.webp",
+      "currentSrc": "https://oryzo.ai/images/social-content/drop_test.webp",
+      "alt": "",
+      "width": 2135,
+      "height": 1080,
+      "className": ""
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "currentSrc": "https://oryzo.ai/images/social-content/drop_test_cover.webp",
+      "alt": "",
+      "width": 528,
+      "height": 176,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/social-content/sticker_2_MOBILE.webp",
+      "currentSrc": "https://oryzo.ai/images/social-content/sticker_2.webp",
+      "alt": "",
+      "width": 900,
+      "height": 1080,
+      "className": ""
+    },
+    {
+      "src": "https://oryzo.ai/images/social-content/legacy_support_MOBILE.webp",
+      "currentSrc": "https://oryzo.ai/images/social-content/legacy_support.webp",
+      "alt": "",
+      "width": 2250,
+      "height": 1080,
+      "className": ""
+    }
+  ],
+  "bodyClasses": "",
+  "htmlClasses": "is-desktop is-ready"
+}

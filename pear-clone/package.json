@@ -1,0 +1,24 @@
+{
+  "name": "pear-clone",
+  "version": "1.0.0",
+  "description": "100% authentic, fully animated clone of https://pear.no/ featuring WebGL volumetric 3D model rendering, custom GLSL shader animation, interactive video reveal pipelines, GT Standard & Flecha typography, and frame-by-frame canvas scroll orchestration",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "download:assets": "python3 scripts/download-all-assets.py",
+    "build:html": "python3 scripts/build-localized-html.py",
+    "check": "node scripts/verify.mjs"
+  },
+  "keywords": [
+    "pear",
+    "webgl",
+    "canvas",
+    "shaders",
+    "3d",
+    "clone",
+    "scroll-animation"
+  ],
+  "author": "Ravi Arnan <raviarnankeren@gmail.com>",
+  "license": "MIT"
+}

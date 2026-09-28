@@ -1,0 +1,1 @@
+import{p as o}from"./CGyjR-Nh.js";import{a as s}from"./B3m6UpGv.js";const t=["FormReference.form","LinksList.sections","CaseStudyReference.case_study","ROICalculatorReference.calculator","GraderReference.grader"];async function c(e){const{public:{storyblokVersion:r}}=o();return await s(e,{version:r,resolve_relations:[...t]})}export{c as u};

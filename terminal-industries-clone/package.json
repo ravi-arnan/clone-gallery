@@ -1,0 +1,25 @@
+{
+  "name": "terminal-industries-clone",
+  "version": "1.0.0",
+  "description": "100% authentic, fully animated clone of https://terminal-industries.com/ featuring multi-stage 3D canvas sequences, GSAP timeline choreography, Lenis smooth scroll, Storyblok headless CMS integration, and reactive typography",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "check": "node scripts/verify.mjs",
+    "download:assets": "nice -n 19 python3 scripts/download-all-assets.py"
+  },
+  "keywords": [
+    "terminal-industries",
+    "gsap",
+    "scrolltrigger",
+    "canvas",
+    "3d",
+    "nuxt3",
+    "clone",
+    "awwwards",
+    "lenis"
+  ],
+  "author": "Ravi Arnan <raviarnankeren@gmail.com>",
+  "license": "MIT"
+}

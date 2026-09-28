@@ -1,0 +1,22 @@
+{
+  "name": "sui-clone",
+  "version": "1.0.0",
+  "description": "Fully animated offline clone of sui.io with GSAP, Rive, 3D Canvas Sequence, Lenis smooth scroll, and Lottie",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "check": "node scripts/verify.mjs",
+    "build": "python3 scripts/build-localized-html.py"
+  },
+  "keywords": [
+    "sui",
+    "clone",
+    "gsap",
+    "rive",
+    "3d",
+    "lenis"
+  ],
+  "author": "Ravi Arnan <raviarnankeren@gmail.com>",
+  "license": "MIT"
+}

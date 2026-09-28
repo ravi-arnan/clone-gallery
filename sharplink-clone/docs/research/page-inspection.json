@@ -1,0 +1,652 @@
+{
+  "title": "Sharplink : Home",
+  "meta": [
+    {
+      "name": null,
+      "property": null,
+      "content": null
+    },
+    {
+      "name": "viewport",
+      "property": null,
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "robots",
+      "property": null,
+      "content": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+    },
+    {
+      "name": "description",
+      "property": null,
+      "content": "Sharplink is the institutional-grade Ethereum treasury platform giving investors a smarter, more productive access vehicle to ETH"
+    },
+    {
+      "name": null,
+      "property": "og:description",
+      "content": "Sharplink is the institutional-grade Ethereum treasury platform giving investors a smarter, more productive access vehicle to ETH"
+    },
+    {
+      "name": null,
+      "property": "og:image",
+      "content": "https://a.storyblok.com/f/290008427472090/1200x630/cee5dffe93/og-homepage.jpg"
+    },
+    {
+      "name": null,
+      "property": "og:title",
+      "content": "Sharplink : Home"
+    },
+    {
+      "name": null,
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "name": "twitter:description",
+      "property": null,
+      "content": "Sharplink is the institutional-grade Ethereum treasury platform giving investors a smarter, more productive access vehicle to ETH"
+    },
+    {
+      "name": "twitter:title",
+      "property": null,
+      "content": "Sharplink : Home"
+    },
+    {
+      "name": "twitter:image",
+      "property": null,
+      "content": "Sharplink : Home"
+    },
+    {
+      "name": "twitter:card",
+      "property": null,
+      "content": "summary_large_image"
+    }
+  ],
+  "globals": {
+    "hasGSAP": false,
+    "hasScrollTrigger": false,
+    "hasThree": false,
+    "hasLenis": false,
+    "hasNuxt": false,
+    "nuxtData": null
+  },
+  "scripts": [
+    {
+      "src": "https://www.sharplink.com/_nuxt/5OliWYBk.js",
+      "id": "",
+      "type": "module",
+      "inlineSnippet": null
+    },
+    {
+      "src": "",
+      "id": "__NUXT_DATA__",
+      "type": "application/json",
+      "inlineSnippet": "[[\"ShallowReactive\",1],{\"data\":2,\"state\":711,\"once\":722,\"_errors\":723,\"serverRendered\":25,\"path\":114,\"pinia\":725},[\"ShallowReactive\",3],{\"config\":4,\"home\":224},{\"name\":5,\"created_at\":6,\"published_at\":"
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "",
+      "inlineSnippet": "window.__NUXT__={};window.__NUXT__.config={public:{app:{title:\"SF Boilerplate\",ssr:false,storyblok:{enabled:true,forceDraft:false,settings:\"config\",apiOptions:{region:\"eu\"}},marker:{projectId:\"\",scrip"
+    }
+  ],
+  "links": [
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/entry.D7b4BisY.css",
+      "as": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/Content.haKaEqxz.css",
+      "as": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/colors._5rLuzGg.css",
+      "as": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/Wrapper.CBBHtnSw.css",
+      "as": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/Video.6CgUOyHF.css",
+      "as": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/TextReveal.CGR_q-cq.css",
+      "as": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/LatestArticles.DVpluiXD.css",
+      "as": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/DateBadge.CsfzVgh1.css",
+      "as": ""
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/5OliWYBk.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/CqVY-T_H.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/SiIeYGLU.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/B5I2Rwog.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/DAUr-lm1.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/CS-g-qVf.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/BFGDTjlR.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/CT5cPODq.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/BDezjvMf.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/D2Z_hcnF.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/CEQU_IOZ.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/CeZb9Q0t.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/BwQMn2q0.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/BOmViZMN.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/DbZwy2Iv.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/BxA85JR0.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/DMqakE6x.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/Dkmy9ISy.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/B74jUiSv.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/4qjBzPLA.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/Deah22dp.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/BsfV3BYv.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/BvPg-G5l.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/CNNnvzYX.js",
+      "as": "script"
+    },
+    {
+      "rel": "preload",
+      "href": "https://www.sharplink.com/_nuxt/builds/meta/d417db0b-43fd-482a-b547-395c20b81a01.json",
+      "as": "fetch"
+    },
+    {
+      "rel": "icon",
+      "href": "https://www.sharplink.com/favicon.png",
+      "as": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/index.BYwz9TUN.css",
+      "as": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/default.BRin2g7f.css",
+      "as": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/HeroProductivityWrapper.CuvFFQ9r.css",
+      "as": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/index.DrU-Kxyg.css",
+      "as": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/Banner.Cdt8eNr1.css",
+      "as": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/index.9FetlLk4.css",
+      "as": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/News.Bqx_65q6.css",
+      "as": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/index.CgJ6ZlZG.css",
+      "as": ""
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/DuC6rr0c.js",
+      "as": "script"
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/about.BMcN-Udb.css",
+      "as": ""
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/FGDq1kfy.js",
+      "as": "script"
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/investors.BQ_RqbLz.css",
+      "as": ""
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/C-02aYyX.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/ThvjEZ2Y.js",
+      "as": "script"
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/index.zHGMSAB1.css",
+      "as": ""
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/Dj1r4r_3.js",
+      "as": "script"
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/dashboard.nt9r6bK2.css",
+      "as": ""
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/Bwuz9w49.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/CUBEqAPk.js",
+      "as": "script"
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/Header.CYo6hBTq.css",
+      "as": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/privacy-policy.CL2xqWHZ.css",
+      "as": ""
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/C6Xm8HKa.js",
+      "as": "script"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/CxF0d9Kv.js",
+      "as": "script"
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/EmailAlertWidget.BgT4Pmat.css",
+      "as": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/_slug_.SGf2b7ES.css",
+      "as": ""
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/CUJyYIh2.js",
+      "as": "script"
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/contact.kvkipIjd.css",
+      "as": ""
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.sharplink.com/_nuxt/PDthMWUV.js",
+      "as": "script"
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.sharplink.com/_nuxt/terms-of-use.CNQlwydS.css",
+      "as": ""
+    }
+  ],
+  "canvases": [
+    {
+      "index": 0,
+      "className": "",
+      "id": "",
+      "width": 398,
+      "height": 216,
+      "rect": {
+        "top": 320.28125,
+        "left": 520.65625,
+        "width": 398.6875,
+        "height": 216.390625
+      },
+      "contextType": "2d"
+    },
+    {
+      "index": 1,
+      "className": "",
+      "id": "",
+      "width": 560,
+      "height": 765,
+      "rect": {
+        "top": 2280,
+        "left": 851.65625,
+        "width": 560.328125,
+        "height": 765
+      },
+      "contextType": "2d"
+    },
+    {
+      "index": 2,
+      "className": "logo-canvas",
+      "id": "",
+      "width": 1440,
+      "height": 469,
+      "rect": {
+        "top": 8195.328125,
+        "left": 0,
+        "width": 1440,
+        "height": 469
+      },
+      "contextType": "webgl2"
+    }
+  ],
+  "videos": [
+    {
+      "src": "https://a.storyblok.com/f/290008427472090/x/87414464bd/shrp_homepagehero_30fps.webm",
+      "currentSrc": "https://a.storyblok.com/f/290008427472090/x/87414464bd/shrp_homepagehero_30fps.webm",
+      "poster": "https://www.sharplink.com/",
+      "autoplay": false,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "src": "https://a.storyblok.com/f/290008427472090/x/87414464bd/shrp_homepagehero_30fps.webm",
+      "currentSrc": "https://a.storyblok.com/f/290008427472090/x/87414464bd/shrp_homepagehero_30fps.webm",
+      "poster": "https://www.sharplink.com/",
+      "autoplay": false,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "src": "https://a.storyblok.com/f/290008427472090/x/fc3ccdb6eb/shrp_homeopportunity_safari.mp4",
+      "currentSrc": "https://a.storyblok.com/f/290008427472090/x/324ca8b2c3/shrp_homeopportunity_chrome.webm",
+      "poster": "https://www.sharplink.com/",
+      "autoplay": false,
+      "loop": true,
+      "muted": true
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.sharplink.com/_vercel/image?url=%2Fimages%2Fgradient-dark-transparent.png&w=1536&q=100",
+      "currentSrc": "https://www.sharplink.com/_vercel/image?url=%2Fimages%2Fgradient-dark-transparent.png&w=1536&q=100",
+      "alt": "",
+      "width": 719,
+      "height": 584,
+      "className": "image"
+    },
+    {
+      "src": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F252x72%2Fc7ee962a25%2Flogonasdaq.svg&w=1536&q=100",
+      "currentSrc": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F252x72%2Fc7ee962a25%2Flogonasdaq.svg&w=1536&q=100",
+      "alt": "",
+      "width": 126,
+      "height": 36,
+      "className": "nasdaq__logo"
+    },
+    {
+      "src": "https://www.sharplink.com/_vercel/image?url=%2Fimages%2Fgradient-dark-transparent.png&w=1536&q=100",
+      "currentSrc": "https://www.sharplink.com/_vercel/image?url=%2Fimages%2Fgradient-dark-transparent.png&w=1536&q=100",
+      "alt": "",
+      "width": 719,
+      "height": 584,
+      "className": "image"
+    },
+    {
+      "src": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F176x50%2F1f5cd96fe5%2Fnasdaq_logo-1.png&w=1536&q=100",
+      "currentSrc": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F176x50%2F1f5cd96fe5%2Fnasdaq_logo-1.png&w=1536&q=100",
+      "alt": "",
+      "width": 88,
+      "height": 25,
+      "className": "eyebrow__logo"
+    },
+    {
+      "src": "https://www.sharplink.com/_vercel/image?url=%2Fimages%2Fgradient-dark-transparent.png&w=1536&q=100",
+      "currentSrc": "https://www.sharplink.com/_vercel/image?url=%2Fimages%2Fgradient-dark-transparent.png&w=1536&q=100",
+      "alt": "",
+      "width": 719,
+      "height": 584,
+      "className": "image"
+    },
+    {
+      "src": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F176x50%2F1f5cd96fe5%2Fnasdaq_logo-1.png&w=1536&q=100",
+      "currentSrc": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F176x50%2F1f5cd96fe5%2Fnasdaq_logo-1.png&w=1536&q=100",
+      "alt": "",
+      "width": 88,
+      "height": 25,
+      "className": "eyebrow__logo"
+    },
+    {
+      "src": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F720x564%2Fb5c3c1351f%2Fdotillustration_1.avif&w=1536&q=100",
+      "currentSrc": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F720x564%2Fb5c3c1351f%2Fdotillustration_1.avif&w=1536&q=100",
+      "alt": "Productivity Image",
+      "width": 360,
+      "height": 282,
+      "className": "image"
+    },
+    {
+      "src": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F720x564%2Fc931a885e0%2Fdotillustration_2.avif&w=1536&q=100",
+      "currentSrc": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F720x564%2Fc931a885e0%2Fdotillustration_2.avif&w=1536&q=100",
+      "alt": "Productivity Image",
+      "width": 360,
+      "height": 282,
+      "className": "image"
+    },
+    {
+      "src": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F720x564%2F7465a9b37f%2Fdotillustration_3.avif&w=1536&q=100",
+      "currentSrc": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F720x564%2F7465a9b37f%2Fdotillustration_3.avif&w=1536&q=100",
+      "alt": "Productivity Image",
+      "width": 360,
+      "height": 282,
+      "className": "image"
+    },
+    {
+      "src": "https://www.sharplink.com/_vercel/image?url=%2Fimages%2Fgradient-dark-transparent.png&w=1536&q=100",
+      "currentSrc": "https://www.sharplink.com/_vercel/image?url=%2Fimages%2Fgradient-dark-transparent.png&w=1536&q=100",
+      "alt": "",
+      "width": 719,
+      "height": 584,
+      "className": "image"
+    },
+    {
+      "src": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F1024x1920%2F6cfd545366%2Fshrp_stack_outline.avif&w=1536&q=100",
+      "currentSrc": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F1024x1920%2F6cfd545366%2Fshrp_stack_outline.avif&w=1536&q=100",
+      "alt": "",
+      "width": 512,
+      "height": 960,
+      "className": "outline-image"
+    },
+    {
+      "src": "https://www.sharplink.com/_vercel/image?url=%2Fimages%2Fgradient-dark-transparent.png&w=1536&q=100",
+      "currentSrc": "https://www.sharplink.com/_vercel/image?url=%2Fimages%2Fgradient-dark-transparent.png&w=1536&q=100",
+      "alt": "",
+      "width": 719,
+      "height": 584,
+      "className": "image"
+    },
+    {
+      "src": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F270x270%2F0321fe5cd5%2Ficoopp_1.webp&w=1536&q=100",
+      "currentSrc": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F270x270%2F0321fe5cd5%2Ficoopp_1.webp&w=1536&q=100",
+      "alt": "",
+      "width": 135,
+      "height": 135,
+      "className": "image"
+    },
+    {
+      "src": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F270x270%2F51e086bcb0%2Ficoopp_2.webp&w=1536&q=100",
+      "currentSrc": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F270x270%2F51e086bcb0%2Ficoopp_2.webp&w=1536&q=100",
+      "alt": "",
+      "width": 135,
+      "height": 135,
+      "className": "image"
+    },
+    {
+      "src": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F270x270%2F0c92801c32%2Ficoopp_3.webp&w=1536&q=100",
+      "currentSrc": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F270x270%2F0c92801c32%2Ficoopp_3.webp&w=1536&q=100",
+      "alt": "",
+      "width": 135,
+      "height": 135,
+      "className": "image"
+    },
+    {
+      "src": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F270x270%2F4eaaf8ac16%2Ficoopp_4.webp&w=1536&q=100",
+      "currentSrc": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F270x270%2F4eaaf8ac16%2Ficoopp_4.webp&w=1536&q=100",
+      "alt": "",
+      "width": 135,
+      "height": 135,
+      "className": "image"
+    },
+    {
+      "src": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290581778021750%2F3200x2000%2F61b8a04902%2Fgalaxy-sharplink-ecosystem-liquidity-fund.png&w=1536&q=100",
+      "currentSrc": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290581778021750%2F3200x2000%2F61b8a04902%2Fgalaxy-sharplink-ecosystem-liquidity-fund.png&w=1536&q=100",
+      "alt": "Article thumbnail",
+      "width": 768,
+      "height": 480,
+      "className": "image"
+    },
+    {
+      "src": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290581778021750%2F3200x2000%2F61b8a04902%2Fgalaxy-sharplink-ecosystem-liquidity-fund.png&w=1536&q=100",
+      "currentSrc": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290581778021750%2F3200x2000%2F61b8a04902%2Fgalaxy-sharplink-ecosystem-liquidity-fund.png&w=1536&q=100",
+      "alt": "Article thumbnail",
+      "width": 768,
+      "height": 480,
+      "className": "image"
+    },
+    {
+      "src": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F252x72%2Fc7ee962a25%2Flogonasdaq.svg&w=1536&q=100",
+      "currentSrc": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F252x72%2Fc7ee962a25%2Flogonasdaq.svg&w=1536&q=100",
+      "alt": "",
+      "width": 126,
+      "height": 36,
+      "className": "nasdaq__logo"
+    },
+    {
+      "src": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F252x72%2Fc7ee962a25%2Flogonasdaq.svg&w=1536&q=100",
+      "currentSrc": "https://www.sharplink.com/_vercel/image?url=https:%2F%2Fa.storyblok.com%2Ff%2F290008427472090%2F252x72%2Fc7ee962a25%2Flogonasdaq.svg&w=1536&q=100",
+      "alt": "",
+      "width": 126,
+      "height": 36,
+      "className": "nasdaq__logo"
+    },
+    {
+      "src": "https://www.sharplink.com/_vercel/image?url=%2Fimages%2Fgradient-dark-transparent.png&w=1536&q=100",
+      "currentSrc": "https://www.sharplink.com/_vercel/image?url=%2Fimages%2Fgradient-dark-transparent.png&w=1536&q=100",
+      "alt": "",
+      "width": 719,
+      "height": 584,
+      "className": "image"
+    }
+  ],
+  "bodyClasses": "",
+  "htmlClasses": "lenis"
+}
