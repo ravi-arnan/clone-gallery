@@ -1,0 +1,1 @@
+import{cr as e}from"./cgz0BpdW.js";function t(){let{hooks:t}=e(),n=new Map;return t?{emit:t.callHook.bind(t),on:function(e,r){return t.hook(e,r),n.has(e)||n.set(e,new Set),n.get(e).add(r),()=>{this.off(e,r)}},off:function(e,r){let i=n.get(e);i&&i.has(r)&&(t.removeHook(e,r),i.delete(r),i.size===0&&n.delete(e))}}:{emit:()=>{},on:()=>()=>{},off:()=>{}}}export{t};

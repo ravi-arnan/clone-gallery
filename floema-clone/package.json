@@ -1,0 +1,24 @@
+{
+  "name": "floema-clone",
+  "version": "1.0.0",
+  "description": "100% authentic, fully animated offline clone of https://floema.com/en with GSAP animations, 3D WebGL particle shadows, ambient soundscapes, and 3D product viewer",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "check": "node scripts/verify.mjs",
+    "download:assets": "nice -n 19 python3 scripts/download-sanity-images.py"
+  },
+  "keywords": [
+    "floema",
+    "nuxt",
+    "threejs",
+    "webgl",
+    "gsap",
+    "scrolltrigger",
+    "clone",
+    "pizzicato"
+  ],
+  "author": "Ravi Arnan <raviarnankeren@gmail.com>",
+  "license": "ISC"
+}
