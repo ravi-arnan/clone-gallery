@@ -1,0 +1,1 @@
+import{f as s,aM as a,o,l as e,s as d}from"./entry.9cfb39b7.js";const t={class:"formRow"},f=s({__name:"row",props:{fields:{default:1}},setup:s=>(a((a=>({"3ebf0a0c":s.fields}))),(s,a)=>(o(),e("div",t,[d(s.$slots,"default",{},void 0,!0)])))},[["__scopeId","data-v-377a8d03"]]);export{f as default};

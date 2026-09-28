@@ -1,0 +1,1 @@
+const t=async function(t){let a=await function(t){return new Promise((a=>{let e=document.createElement("video");e.muted=!0,e.playsinline=!0,e.preload="metadata",e.onloadedmetadata=function(){e.pause(),a(e.duration)},e.src=t}))}(t);return`${Math.floor(a/60)}:${Math.floor(a%60).toString().padStart(2,"0")}`};export{t as g};

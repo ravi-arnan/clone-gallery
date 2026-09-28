@@ -1,0 +1,1 @@
+import{a as s,b as a,e as t,r as e,R as o,o as p,l as r,t as f,u,f as m}from"./entry.9cfb39b7.js";import{u as l}from"./useRaf.7f5a4d1b.js";const n={class:"fps"},c=m(s({__name:"fps",props:{},emits:[],setup(s,{emit:m}){a(),t(),e(null);const c=e(0);return l((()=>{c.value=o.fps})),(s,a)=>(p(),r("div",n,f(u(c)),1))}}),[["__scopeId","data-v-a1fdb63c"]]);export{c as default};

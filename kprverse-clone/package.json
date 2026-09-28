@@ -1,0 +1,26 @@
+{
+  "name": "kprverse-clone",
+  "version": "1.0.0",
+  "description": "100% authentic, fully animated clone of https://kprverse.com/ featuring interactive 3D WebGL scenes, Draco decompression, Basis/KTX2 textures, custom GLSL shaders, multi-layered sprite sheets, GSAP ScrollTrigger timeline orchestration, and audio soundscapes",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "check": "node scripts/verify.mjs",
+    "download:assets": "nice -n 19 python3 scripts/deep-scan-assets.py"
+  },
+  "keywords": [
+    "kprverse",
+    "threejs",
+    "webgl",
+    "draco",
+    "ktx2",
+    "gsap",
+    "scrolltrigger",
+    "3d",
+    "clone",
+    "awwwards"
+  ],
+  "author": "Ravi Arnan <raviarnankeren@gmail.com>",
+  "license": "MIT"
+}

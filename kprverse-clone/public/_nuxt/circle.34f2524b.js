@@ -1,0 +1,1 @@
+import{o as s,l as e,m as n}from"./entry.9cfb39b7.js";const o={xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 60.22 60.22"},r=[n("circle",{cx:"30",cy:"30",r:"29",class:"stroke",style:{fill:"none"},"vector-effect":"non-scaling-stroke"},null,-1)];const t={render:function(n,t){return s(),e("svg",o,r)}};export{t as I};

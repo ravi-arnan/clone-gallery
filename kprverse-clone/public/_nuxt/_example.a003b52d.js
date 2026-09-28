@@ -1,0 +1,1 @@
+import{a,b as e,e as s,r as t,f as p}from"./entry.9cfb39b7.js";const l=p(a({__name:"_example",props:{},emits:[],setup:(a,{emit:p})=>(e(),s(),t(null),(a,e)=>null)}),[["__scopeId","data-v-ba5e46ec"]]);export{l as default};

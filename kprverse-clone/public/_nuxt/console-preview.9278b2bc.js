@@ -1,0 +1,1 @@
+import{a as e,e as s,b as o,j as a,o as t,l as p,f as r}from"./entry.9cfb39b7.js";/* empty css                            */const d={class:"console-preview"},i=r(e({__name:"console-preview",props:{blok:{type:Object,required:!0}},emits:["loaded"],setup:(e,{emit:r})=>(s(),o(),a((()=>{r("loaded")})),(e,s)=>(t(),p("div",d)))}),[["__scopeId","data-v-782e062b"]]);export{i as default};

@@ -1,0 +1,1 @@
+import{a as s,e as a,o as t,c as e,u as o,f as n}from"./entry.9cfb39b7.js";import{I as m}from"./next.fe5cba3d.js";const p=n(s({__name:"icon-next",props:{},emits:[],setup:(s,{emit:n})=>(a(),(s,a)=>(t(),e(o(m),{class:"icon-next"})))}),[["__scopeId","data-v-6b54b0d3"]]);export{p as default};

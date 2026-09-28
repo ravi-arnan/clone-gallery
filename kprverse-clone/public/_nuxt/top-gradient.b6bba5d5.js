@@ -1,0 +1,1 @@
+import{f as a,o as e,l as t}from"./entry.9cfb39b7.js";const s={class:"achievementTopGradient"};const n=a({},[["render",function(a,n){return e(),t("div",s)}],["__scopeId","data-v-a187bb62"]]);export{n as default};

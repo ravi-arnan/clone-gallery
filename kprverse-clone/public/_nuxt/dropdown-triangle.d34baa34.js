@@ -1,0 +1,1 @@
+import{o as a,l as e,m as n}from"./entry.9cfb39b7.js";const r={xmlns:"http://www.w3.org/2000/svg","data-name":"Layer 1",viewBox:"0 0 20 13.83"},t=[n("path",{"fill-rule":"evenodd",d:"M16.92 13.83a3.07 3.07 0 0 0 2.29-5.12L12.28 1a3.06 3.06 0 0 0-4.56 0L.79 8.71a3.07 3.07 0 0 0 2.29 5.12Z"},null,-1)];const o={render:function(n,o){return a(),e("svg",r,t)}};export{o as D};
