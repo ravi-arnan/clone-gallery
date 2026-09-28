@@ -1,0 +1,96 @@
+{
+  "title": "Anime.js | JavaScript Animation Engine",
+  "paths": {
+    "demos": "https://animejs.com/documentation-demos",
+    "easings": "https://animejs.com/assets/json/easings.json",
+    "github-sponsors": "https://animejs.com/sponsors/github-sponsors",
+    "platinum-sponsors": "https://animejs.com/sponsors/platinum-sponsors",
+    "gold-sponsors": "https://animejs.com/sponsors/gold-sponsors",
+    "silver-sponsors": "https://animejs.com/sponsors/silver-sponsors"
+  },
+  "scripts": [
+    {
+      "src": "https://www.googletagmanager.com/gtag/js?id=G-16LTPBS8QC",
+      "type": "",
+      "inline": null
+    },
+    {
+      "src": "",
+      "type": "",
+      "inline": "\n  window.paths = {\n    demos: 'https://animejs.com/documentation-demos',\n    'easings': 'https://animejs.com/assets/json/easings.json',\n    'github-sponsors': 'https://animejs.com/sponsors/github-spo"
+    },
+    {
+      "src": "https://cdn.carbonads.com/carbon.js?serve=CWBITK77&placement=animejscom&format=responsive",
+      "type": "text/javascript",
+      "inline": null
+    },
+    {
+      "src": "https://animejs.com/assets/js/home.js?v=1787698626",
+      "type": "module",
+      "inline": null
+    }
+  ],
+  "links": [
+    {
+      "rel": "icon",
+      "href": "https://animejs.com/assets/images/favicon.png",
+      "as": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://animejs.com/assets/css/core.css?v=1787698626",
+      "as": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://animejs.com/assets/css/home.css?v=1787698626",
+      "as": ""
+    }
+  ],
+  "canvases": [
+    {
+      "id": "renderer",
+      "className": "",
+      "width": 2880,
+      "height": 1800,
+      "parent": "DIV#engine."
+    },
+    {
+      "id": "",
+      "className": "staggering-canvas grid-canvas",
+      "width": 800,
+      "height": 800,
+      "parent": "DIV#staggering-demo.feature-demo color-utils"
+    },
+    {
+      "id": "",
+      "className": "heart-canvas grid-canvas",
+      "width": 800,
+      "height": 800,
+      "parent": "DIV#.output"
+    },
+    {
+      "id": "",
+      "className": "dotted-grid-canvas grid-canvas",
+      "width": 800,
+      "height": 800,
+      "parent": "DIV#.output"
+    },
+    {
+      "id": "",
+      "className": "easings-lines-canvas grid-canvas",
+      "width": 800,
+      "height": 800,
+      "parent": "DIV#.output"
+    },
+    {
+      "id": "",
+      "className": "easings-dots-canvas grid-canvas",
+      "width": 800,
+      "height": 800,
+      "parent": "DIV#.output"
+    }
+  ],
+  "sectionsCount": 156,
+  "engineEl": "<canvas data-engine=\"three.js r172\" width=\"2880\" height=\"1800\" id=\"renderer\" style=\"display: block; width: 1440px; height: 900px; position: absolute; top: 0px; left: 0px;\"></canvas><div id=\"css-renderer\" style=\"overflow: hidden; width: 1440px; height: 900px; position: absolute; top: 0px; left: 0px;\"><div style=\"transform-origin: 0px 0px; pointer-events: none; width: 1440px; height: 900px;\"><div style=\"transform-style: preserve-3d; width: 1440px; height: 900px; transform: perspective(1236.36px) s"
+}

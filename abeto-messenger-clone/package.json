@@ -1,0 +1,25 @@
+{
+  "name": "abeto-messenger-clone",
+  "version": "1.0.0",
+  "description": "100% authentic, fully animated clone of https://messenger.abeto.co/ featuring the complete interactive 3D stylized planet, real-time WebGL rendering, Draco 3D meshes, KTX2 textures, full soundscape audio, characters, NPCs, quests, and animations",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "check": "node scripts/verify.mjs",
+    "download:assets": "nice -n 19 python3 scripts/download-assets.py"
+  },
+  "keywords": [
+    "abeto",
+    "messenger",
+    "threejs",
+    "webgl",
+    "draco",
+    "ktx2",
+    "3d",
+    "clone",
+    "awwwards"
+  ],
+  "author": "Ravi Arnan <raviarnankeren@gmail.com>",
+  "license": "MIT"
+}

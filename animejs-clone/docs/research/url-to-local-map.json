@@ -1,0 +1,14 @@
+{
+  "https://animejs.com/assets/css/core.css": "/assets/css/core.css",
+  "https://animejs.com/assets/css/home.css": "/assets/css/home.css",
+  "https://animejs.com/assets/js/home.js": "/assets/js/home.js",
+  "https://animejs.com/documentation-demos": "/documentation-demos",
+  "https://animejs.com/assets/json/easings.json": "/assets/json/easings.json",
+  "https://animejs.com/sponsors/github-sponsors": "/sponsors/github-sponsors",
+  "https://animejs.com/sponsors/platinum-sponsors": "/sponsors/platinum-sponsors",
+  "https://animejs.com/sponsors/gold-sponsors": "/sponsors/gold-sponsors",
+  "https://animejs.com/sponsors/silver-sponsors": "/sponsors/silver-sponsors",
+  "https://animejs.com/assets/models/*": "/assets/models/*",
+  "https://animejs.com/assets/draco/*": "/assets/draco/*",
+  "https://animejs.com/assets/fonts/*": "/assets/fonts/*"
+}

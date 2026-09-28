@@ -1,0 +1,14 @@
+{
+  "name": "era-residence-clone",
+  "version": "1.0.0",
+  "description": "Authentic, fully animated offline clone of ERA Residence (era-residence.com) with GSAP timelines, Lenis smooth scroll, Barba transitions, and 3D bougainvillea flower animations.",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "check": "node scripts/verify.mjs",
+    "download:assets": "nice -n 19 python3 scripts/download-all-assets.py"
+  },
+  "author": "Ravi Arnan <raviarnankeren@gmail.com>",
+  "license": "UNLICENSED"
+}

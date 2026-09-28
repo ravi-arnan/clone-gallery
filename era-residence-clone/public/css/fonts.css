@@ -1,0 +1,30 @@
+/* Local Typekit font faces for ERA Residence */
+@font-face {
+  font-family: "ambroise-francois-std";
+  src: url("/use.typekit.net/af/02a0c4/0000000000000000773598f9/31/l") format("woff2"),
+       url("/use.typekit.net/af/02a0c4/0000000000000000773598f9/31/d") format("woff"),
+       url("/use.typekit.net/af/02a0c4/0000000000000000773598f9/31/a") format("opentype");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "sloop-script-three";
+  src: url("/use.typekit.net/af/ceca40/00000000000000007758dac7/31/l") format("woff2"),
+       url("/use.typekit.net/af/ceca40/00000000000000007758dac7/31/d") format("woff"),
+       url("/use.typekit.net/af/ceca40/00000000000000007758dac7/31/a") format("opentype");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+}
+
+.tk-ambroise-francois-std {
+  font-family: "ambroise-francois-std", serif;
+}
+
+.tk-sloop-script-three {
+  font-family: "sloop-script-three", sans-serif;
+}

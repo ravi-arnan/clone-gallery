@@ -1,0 +1,1 @@
+let paths=window.location.pathname.split("/");import("/assets.slater.app/slater/20164/60900.js");

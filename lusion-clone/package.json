@@ -1,0 +1,24 @@
+{
+  "name": "lusion-clone",
+  "version": "1.0.0",
+  "description": "100% authentic, fully animated clone of lusion.co featuring WebGL 3D physics, interactive buffer models (.buf), Three.js shaders, spatial Web Audio, GSAP timeline orchestration, and depth-displacement project cards",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "download:assets": "python3 scripts/download-assets.py",
+    "check": "node scripts/verify.mjs"
+  },
+  "keywords": [
+    "lusion",
+    "threejs",
+    "webgl",
+    "gsap",
+    "3d",
+    "clone",
+    "shaders",
+    "webaudio"
+  ],
+  "author": "Ravi Arnan <raviarnankeren@gmail.com>",
+  "license": "MIT"
+}

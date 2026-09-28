@@ -1,0 +1,254 @@
+{
+  "title": "Alche, Inc",
+  "meta": [
+    {
+      "name": null,
+      "property": null,
+      "content": null
+    },
+    {
+      "name": "viewport",
+      "property": null,
+      "content": "width=device-width, initial-scale=1.0"
+    },
+    {
+      "name": "generator",
+      "property": null,
+      "content": "Astro v5.13.3"
+    },
+    {
+      "name": "description",
+      "property": null,
+      "content": "Alcheは、デジタルネイティブ時代にこれまでにないエンターテイメント体験を生み出すクリエイティブスタジオです。"
+    },
+    {
+      "name": null,
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "name": null,
+      "property": "og:url",
+      "content": "https://alche.studio/"
+    },
+    {
+      "name": null,
+      "property": "og:title",
+      "content": "Alche, Inc"
+    },
+    {
+      "name": null,
+      "property": "og:description",
+      "content": "Alcheは、デジタルネイティブ時代にこれまでにないエンターテイメント体験を生み出すクリエイティブスタジオです。"
+    },
+    {
+      "name": null,
+      "property": "og:image",
+      "content": "https://alche.studio/ogp.jpg"
+    },
+    {
+      "name": null,
+      "property": "og:site_name",
+      "content": "Alche, Inc"
+    },
+    {
+      "name": null,
+      "property": "og:locale",
+      "content": "ja_JP"
+    },
+    {
+      "name": "twitter:card",
+      "property": null,
+      "content": "summary_large_image"
+    },
+    {
+      "name": "twitter:title",
+      "property": null,
+      "content": "Alche, Inc"
+    },
+    {
+      "name": "twitter:description",
+      "property": null,
+      "content": "Alcheは、デジタルネイティブ時代にこれまでにないエンターテイメント体験を生み出すクリエイティブスタジオです。"
+    },
+    {
+      "name": "twitter:image",
+      "property": null,
+      "content": "https://alche.studio/ogp.jpg"
+    },
+    {
+      "name": "twitter:site",
+      "property": null,
+      "content": "@alche_studio"
+    },
+    {
+      "name": "theme-color",
+      "property": null,
+      "content": "#000000"
+    },
+    {
+      "name": "msapplication-TileColor",
+      "property": null,
+      "content": "#000000"
+    }
+  ],
+  "globals": {
+    "hasGSAP": false,
+    "hasScrollTrigger": false,
+    "hasThree": false,
+    "hasLenis": false,
+    "hasTweakpane": false,
+    "hasLottie": false
+  },
+  "scripts": [
+    {
+      "src": "https://use.typekit.net/ukr2yqt.js",
+      "id": "",
+      "type": "",
+      "inlineSnippet": null
+    },
+    {
+      "src": "https://www.googletagmanager.com/gtag/js?id=G-R00M7W3JTS",
+      "id": "",
+      "type": "",
+      "inlineSnippet": null
+    },
+    {
+      "src": "",
+      "id": "",
+      "type": "",
+      "inlineSnippet": "\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-R00M7W3JTS');\n"
+    },
+    {
+      "src": "https://alche.studio/_astro/page.SNkKDTDH.js",
+      "id": "",
+      "type": "module",
+      "inlineSnippet": null
+    },
+    {
+      "src": "https://alche.studio/_astro/index.astro_astro_type_script_index_0_lang.Cn_goiN_.js",
+      "id": "",
+      "type": "module",
+      "inlineSnippet": null
+    }
+  ],
+  "links": [
+    {
+      "rel": "icon",
+      "href": "https://alche.studio/favicon.png",
+      "as": "",
+      "type": ""
+    },
+    {
+      "rel": "apple-touch-icon",
+      "href": "https://alche.studio/favicon/000.png",
+      "as": "",
+      "type": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://alche.studio/_astro/index.DnJ5xLaK.css",
+      "as": "",
+      "type": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://alche.studio/_astro/about.DKIoZJhT.css",
+      "as": "",
+      "type": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://alche.studio/_astro/index.CQ0ApTUm.css",
+      "as": "",
+      "type": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://alche.studio/_astro/about.Bk-C3ZjO.css",
+      "as": "",
+      "type": ""
+    }
+  ],
+  "canvases": [
+    {
+      "index": 0,
+      "className": "",
+      "id": "",
+      "width": 1440,
+      "height": 900,
+      "rect": {
+        "top": 0,
+        "left": 0,
+        "width": 1440,
+        "height": 900
+      },
+      "contextType": "webgl2"
+    },
+    {
+      "index": 1,
+      "className": "TopPageOutro__canvas",
+      "id": "outro-canvas",
+      "width": 300,
+      "height": 150,
+      "rect": {
+        "top": 20980,
+        "left": 0,
+        "width": 1440,
+        "height": 900
+      },
+      "contextType": "webgl2"
+    },
+    {
+      "index": 2,
+      "className": "tp-svpv_c",
+      "id": "",
+      "width": 64,
+      "height": 64,
+      "rect": {
+        "top": 876,
+        "left": 136,
+        "width": 160,
+        "height": 80
+      },
+      "contextType": "2d"
+    }
+  ],
+  "videos": [],
+  "images": [
+    {
+      "src": "https://alche.studio/top/fortnite.png",
+      "currentSrc": "https://alche.studio/top/fortnite.png",
+      "alt": "Fortnite Creative Works",
+      "width": 660,
+      "height": 274,
+      "className": ""
+    },
+    {
+      "src": "https://alche.studio/top/ue2.png",
+      "currentSrc": "https://alche.studio/top/ue2.png",
+      "alt": "Unreal Engine Works",
+      "width": 1090,
+      "height": 150,
+      "className": ""
+    },
+    {
+      "src": "https://alche.studio/stellla/logo_stellla.png",
+      "currentSrc": "https://alche.studio/stellla/logo_stellla.png",
+      "alt": "",
+      "width": 898,
+      "height": 389,
+      "className": ""
+    },
+    {
+      "src": "https://alche.studio/common/alche_logo.svg",
+      "currentSrc": "https://alche.studio/common/alche_logo.svg",
+      "alt": "ALCHE",
+      "width": 1000,
+      "height": 209,
+      "className": ""
+    }
+  ],
+  "bodyClasses": "",
+  "htmlClasses": "wf-loading wf-adobe-garamond-pro-n4-loading wf-kozuka-gothic-pr6n-n7-loading wf-kozuka-gothic-pr6n-n4-loading wf-acumin-pro-n7-loading wf-acumin-pro-n2-loading wf-acumin-pro-n3-loading wf-acumin-pro-n4-loading wf-acumin-pro-n1-loading wf-acumin-pro-wide-n7-loading wf-acumin-pro-wide-n4-loading wf-a-otf-ud-shin-go-pr6n-n3-loading wf-big-caslon-fb-n4-loading wf-ten-mincho-i4-loading wf-ten-mincho-n4-loading wf-ibm-plex-sans-jp-n4-loading wf-ibm-plex-sans-jp-n7-loading lenis"
+}

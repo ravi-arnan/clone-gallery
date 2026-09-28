@@ -1,0 +1,602 @@
+[
+  {
+    "relativePath": "assets/css/core.css",
+    "sizeBytes": 43259,
+    "extension": ".css"
+  },
+  {
+    "relativePath": "assets/css/home.css",
+    "sizeBytes": 17546,
+    "extension": ".css"
+  },
+  {
+    "relativePath": "assets/draco/draco_decoder.js",
+    "sizeBytes": 719410,
+    "extension": ".js"
+  },
+  {
+    "relativePath": "assets/draco/draco_decoder.wasm",
+    "sizeBytes": 285747,
+    "extension": ".wasm"
+  },
+  {
+    "relativePath": "assets/draco/draco_encoder.js",
+    "sizeBytes": 928718,
+    "extension": ".js"
+  },
+  {
+    "relativePath": "assets/draco/draco_wasm_wrapper.js",
+    "sizeBytes": 58763,
+    "extension": ".js"
+  },
+  {
+    "relativePath": "assets/fonts/BerkeleyMono-Italic.woff2",
+    "sizeBytes": 33276,
+    "extension": ".woff2"
+  },
+  {
+    "relativePath": "assets/fonts/BerkeleyMono-Regular.woff2",
+    "sizeBytes": 32052,
+    "extension": ".woff2"
+  },
+  {
+    "relativePath": "assets/fonts/DINish[slnt,wdth,wght].woff2",
+    "sizeBytes": 166104,
+    "extension": ".woff2"
+  },
+  {
+    "relativePath": "assets/fonts/Digital-7MonoItalic.woff2",
+    "sizeBytes": 4568,
+    "extension": ".woff2"
+  },
+  {
+    "relativePath": "assets/images/anime-js-logo-v4.svg",
+    "sizeBytes": 13171,
+    "extension": ".svg"
+  },
+  {
+    "relativePath": "assets/images/favicon.png",
+    "sizeBytes": 2926,
+    "extension": ".png"
+  },
+  {
+    "relativePath": "assets/images/icons/drop-down.svg",
+    "sizeBytes": 214,
+    "extension": ".svg"
+  },
+  {
+    "relativePath": "assets/js/chunks/chunk-CPVC3KGU.js",
+    "sizeBytes": 546180,
+    "extension": ".js"
+  },
+  {
+    "relativePath": "assets/js/chunks/chunk-DCANE7XH.js",
+    "sizeBytes": 638,
+    "extension": ".js"
+  },
+  {
+    "relativePath": "assets/js/chunks/chunk-FX45FQRC.js",
+    "sizeBytes": 5773,
+    "extension": ".js"
+  },
+  {
+    "relativePath": "assets/js/chunks/chunk-N6I4AEHZ.js",
+    "sizeBytes": 13020,
+    "extension": ".js"
+  },
+  {
+    "relativePath": "assets/js/chunks/chunk-WQVFBASJ.js",
+    "sizeBytes": 29082,
+    "extension": ".js"
+  },
+  {
+    "relativePath": "assets/js/chunks/chunk-WXAKRBIO.js",
+    "sizeBytes": 130763,
+    "extension": ".js"
+  },
+  {
+    "relativePath": "assets/js/chunks/debug-CBQ742GO.js",
+    "sizeBytes": 3472,
+    "extension": ".js"
+  },
+  {
+    "relativePath": "assets/js/home.js",
+    "sizeBytes": 250762,
+    "extension": ".js"
+  },
+  {
+    "relativePath": "assets/json/easings.json",
+    "sizeBytes": 6789,
+    "extension": ".json"
+  },
+  {
+    "relativePath": "assets/models/module-animate-01.glb",
+    "sizeBytes": 38144,
+    "extension": ".glb"
+  },
+  {
+    "relativePath": "assets/models/module-draggable-01.glb",
+    "sizeBytes": 24244,
+    "extension": ".glb"
+  },
+  {
+    "relativePath": "assets/models/module-draggable-02.glb",
+    "sizeBytes": 14020,
+    "extension": ".glb"
+  },
+  {
+    "relativePath": "assets/models/module-easing-01.glb",
+    "sizeBytes": 13336,
+    "extension": ".glb"
+  },
+  {
+    "relativePath": "assets/models/module-engine-01.glb",
+    "sizeBytes": 36524,
+    "extension": ".glb"
+  },
+  {
+    "relativePath": "assets/models/module-renderer-01.glb",
+    "sizeBytes": 46000,
+    "extension": ".glb"
+  },
+  {
+    "relativePath": "assets/models/module-scope-01.glb",
+    "sizeBytes": 15192,
+    "extension": ".glb"
+  },
+  {
+    "relativePath": "assets/models/module-scroll-01.glb",
+    "sizeBytes": 28120,
+    "extension": ".glb"
+  },
+  {
+    "relativePath": "assets/models/module-shield-01.glb",
+    "sizeBytes": 14096,
+    "extension": ".glb"
+  },
+  {
+    "relativePath": "assets/models/module-shield-02.glb",
+    "sizeBytes": 14096,
+    "extension": ".glb"
+  },
+  {
+    "relativePath": "assets/models/module-spring-01.glb",
+    "sizeBytes": 16748,
+    "extension": ".glb"
+  },
+  {
+    "relativePath": "assets/models/module-stagger-01.glb",
+    "sizeBytes": 14864,
+    "extension": ".glb"
+  },
+  {
+    "relativePath": "assets/models/module-stagger-02.glb",
+    "sizeBytes": 13464,
+    "extension": ".glb"
+  },
+  {
+    "relativePath": "assets/models/module-svg-01.glb",
+    "sizeBytes": 14228,
+    "extension": ".glb"
+  },
+  {
+    "relativePath": "assets/models/module-timeline-01.glb",
+    "sizeBytes": 17456,
+    "extension": ".glb"
+  },
+  {
+    "relativePath": "assets/models/module-timeline-02.glb",
+    "sizeBytes": 14300,
+    "extension": ".glb"
+  },
+  {
+    "relativePath": "assets/models/module-timer-01.glb",
+    "sizeBytes": 28516,
+    "extension": ".glb"
+  },
+  {
+    "relativePath": "assets/models/module-timer-02.glb",
+    "sizeBytes": 24468,
+    "extension": ".glb"
+  },
+  {
+    "relativePath": "assets/models/module-timer-03.glb",
+    "sizeBytes": 21760,
+    "extension": ".glb"
+  },
+  {
+    "relativePath": "assets/models/module-timer-04.glb",
+    "sizeBytes": 25224,
+    "extension": ".glb"
+  },
+  {
+    "relativePath": "assets/models/module-timer-05.glb",
+    "sizeBytes": 13840,
+    "extension": ".glb"
+  },
+  {
+    "relativePath": "assets/models/module-waapi-01.glb",
+    "sizeBytes": 17992,
+    "extension": ".glb"
+  },
+  {
+    "relativePath": "core.css",
+    "sizeBytes": 43259,
+    "extension": ".css"
+  },
+  {
+    "relativePath": "documentation-demos",
+    "sizeBytes": 2274222,
+    "extension": ""
+  },
+  {
+    "relativePath": "home.css",
+    "sizeBytes": 17546,
+    "extension": ".css"
+  },
+  {
+    "relativePath": "media/avatars/107817481.jpg",
+    "sizeBytes": 26456,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/1121725.jpg",
+    "sizeBytes": 1551,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/11381341.jpg",
+    "sizeBytes": 1541,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/123018012.jpg",
+    "sizeBytes": 1557,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/123049964.jpg",
+    "sizeBytes": 1582,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/1255528.jpg",
+    "sizeBytes": 24157,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/13168561.jpg",
+    "sizeBytes": 32379,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/1351436.jpg",
+    "sizeBytes": 24158,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/140085084.jpg",
+    "sizeBytes": 1535,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/14097554.jpg",
+    "sizeBytes": 36404,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/1417323.jpg",
+    "sizeBytes": 20112,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/14859935.jpg",
+    "sizeBytes": 21598,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/1492806.jpg",
+    "sizeBytes": 11723,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/15028082.jpg",
+    "sizeBytes": 15697,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/15368010.jpg",
+    "sizeBytes": 16894,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/16178877.jpg",
+    "sizeBytes": 29158,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/16688047.jpg",
+    "sizeBytes": 24293,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/1682225.jpg",
+    "sizeBytes": 13140,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/171258970.jpg",
+    "sizeBytes": 1558,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/171592363.jpg",
+    "sizeBytes": 4010,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/1908341.jpg",
+    "sizeBytes": 1524,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/20308945.jpg",
+    "sizeBytes": 3549,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/203968980.jpg",
+    "sizeBytes": 124928,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/2091293.jpg",
+    "sizeBytes": 17241,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/21299126.jpg",
+    "sizeBytes": 260423,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/213351.jpg",
+    "sizeBytes": 450567,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/2158130.jpg",
+    "sizeBytes": 42382,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/217863722.jpg",
+    "sizeBytes": 1535,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/223952.jpg",
+    "sizeBytes": 15930,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/22761713.jpg",
+    "sizeBytes": 1526,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/24498666.jpg",
+    "sizeBytes": 36140,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/24833827.jpg",
+    "sizeBytes": 119710,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/30808859.jpg",
+    "sizeBytes": 57530,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/335118.jpg",
+    "sizeBytes": 1549,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/3381818.jpg",
+    "sizeBytes": 34342,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/37394584.jpg",
+    "sizeBytes": 5483,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/374134.jpg",
+    "sizeBytes": 1536,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/38730517.jpg",
+    "sizeBytes": 11565,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/40425150.jpg",
+    "sizeBytes": 1539,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/412352.jpg",
+    "sizeBytes": 19270,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/4266359.jpg",
+    "sizeBytes": 65748,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/4291354.jpg",
+    "sizeBytes": 41048,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/456538.jpg",
+    "sizeBytes": 280997,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/4593699.jpg",
+    "sizeBytes": 41779,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/4730431.jpg",
+    "sizeBytes": 42132,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/47975771.jpg",
+    "sizeBytes": 115597,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/52384531.jpg",
+    "sizeBytes": 37613,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/5545171.jpg",
+    "sizeBytes": 9172,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/56684844.jpg",
+    "sizeBytes": 23903,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/579887.jpg",
+    "sizeBytes": 34315,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/645713.jpg",
+    "sizeBytes": 383064,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/6699959.jpg",
+    "sizeBytes": 103924,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/685518.jpg",
+    "sizeBytes": 27361,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/7033186.jpg",
+    "sizeBytes": 1561,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/7050547.jpg",
+    "sizeBytes": 18841,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/7118754.jpg",
+    "sizeBytes": 227095,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/72539280.jpg",
+    "sizeBytes": 11467,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/7850794.jpg",
+    "sizeBytes": 15758,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/78906517.jpg",
+    "sizeBytes": 16936,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/801425.jpg",
+    "sizeBytes": 36058,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/8131304.jpg",
+    "sizeBytes": 38016,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/84647728.jpg",
+    "sizeBytes": 29425,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/8601493.jpg",
+    "sizeBytes": 66528,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/8617673.jpg",
+    "sizeBytes": 11251,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/9310.jpg",
+    "sizeBytes": 17955,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/avatars/95952866.jpg",
+    "sizeBytes": 10645,
+    "extension": ".jpg"
+  },
+  {
+    "relativePath": "media/pages/home/066c76f87b-1787698629/generated-og-image.en.png",
+    "sizeBytes": 144767,
+    "extension": ".png"
+  },
+  {
+    "relativePath": "media/pages/sponsors/platinum-sponsors/ef1c9c6c85-1787698629/sponsor-placeholder.svg",
+    "sizeBytes": 743,
+    "extension": ".svg"
+  },
+  {
+    "relativePath": "media/pages/sponsors/silver-sponsors/49214d1e15-1787698629/testmu-ai-logomark.svg",
+    "sizeBytes": 481,
+    "extension": ".svg"
+  },
+  {
+    "relativePath": "sponsors/github-sponsors",
+    "sizeBytes": 13066,
+    "extension": ""
+  },
+  {
+    "relativePath": "sponsors/gold-sponsors",
+    "sizeBytes": 0,
+    "extension": ""
+  },
+  {
+    "relativePath": "sponsors/platinum-sponsors",
+    "sizeBytes": 447,
+    "extension": ""
+  },
+  {
+    "relativePath": "sponsors/silver-sponsors",
+    "sizeBytes": 445,
+    "extension": ""
+  }
+]

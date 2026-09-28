@@ -1,0 +1,365 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>BlueYard Capital — clone</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#fff6f4;
+  --ink:#090b11;
+  --ink-80:rgba(9,11,17,.8);
+  --ink-50:rgba(9,11,17,.5);
+  --ink-30:rgba(9,11,17,.28);
+  --line:rgba(9,11,17,.14);
+  --pad:clamp(1.1rem,4vw,3.25rem);
+  --maxw:1500px;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{
+  background:var(--bg);color:var(--ink-80);
+  font-family:"Instrument Sans",system-ui,sans-serif;
+  font-size:16px;line-height:1.35;-webkit-font-smoothing:antialiased;
+  overflow-x:hidden;
+}
+a{color:inherit;text-decoration:none}
+.wrap{max-width:var(--maxw);margin:0 auto;padding-inline:var(--pad)}
+
+/* ---------- loader ---------- */
+#loader{
+  position:fixed;inset:0;z-index:100;background:var(--bg);
+  display:flex;align-items:center;justify-content:center;
+  transition:opacity .8s ease,visibility .8s;
+}
+#loader.done{opacity:0;visibility:hidden}
+.cube{
+  width:96px;height:112px;background:var(--ink);color:var(--bg);
+  border-radius:3px;display:flex;flex-direction:column;align-items:center;justify-content:center;
+  transform:perspective(600px) rotateX(6deg);
+  box-shadow:0 30px 60px -30px rgba(9,11,17,.45);
+  font-weight:600;letter-spacing:.14em;font-size:15px;text-align:center;line-height:1.25;
+}
+#count{
+  position:fixed;bottom:2rem;left:0;right:0;text-align:center;
+  font-size:13px;letter-spacing:.18em;color:var(--ink-50);
+}
+
+/* ---------- nav ---------- */
+.topbar{
+  position:fixed;top:0;left:0;right:0;z-index:50;
+  display:flex;justify-content:space-between;align-items:center;
+  padding:1.1rem var(--pad);font-size:13px;letter-spacing:.06em;
+  text-transform:uppercase;color:var(--ink-50);
+  mix-blend-mode:normal;pointer-events:none;
+}
+.topbar a,.topbar button{pointer-events:auto;background:none;border:0;font:inherit;letter-spacing:inherit;text-transform:inherit;color:var(--ink-50);cursor:pointer}
+.topbar a:hover,.topbar button:hover{color:var(--ink)}
+
+/* ---------- hero ---------- */
+.hero{padding:26vh 0 14vh}
+.display{
+  font-weight:400;letter-spacing:-.03em;line-height:.98;color:var(--ink);
+  font-size:clamp(2.6rem,7.2vw,5.3rem);
+}
+.hero .display{max-width:16ch}
+.hero p{
+  max-width:46ch;margin-top:2.4rem;font-size:clamp(1.05rem,1.7vw,1.35rem);
+  line-height:1.45;color:var(--ink-80);
+}
+.hero .lede2{margin-top:1.6rem}
+.manifesto-btn{
+  display:inline-flex;align-items:center;gap:.6rem;margin-top:2.6rem;
+  font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink);
+  border-bottom:1px solid var(--ink);padding-bottom:.35rem;
+}
+.manifesto-btn:hover{opacity:.55}
+
+/* ---------- section headers ---------- */
+.section{padding:5.5rem 0;border-top:1px solid var(--line)}
+.sec-label{
+  font-size:15px;font-weight:500;letter-spacing:.02em;text-transform:uppercase;color:var(--ink);
+}
+.sec-head{
+  display:grid;grid-template-columns:1fr;gap:1.4rem;margin-bottom:3.2rem;
+}
+.sec-intro{max-width:38ch;font-size:clamp(1.15rem,2vw,1.55rem);line-height:1.3;color:var(--ink);letter-spacing:-.01em}
+@media(min-width:820px){
+  .sec-head{grid-template-columns:.9fr 1.5fr;align-items:start}
+}
+
+/* ---------- company grid ---------- */
+.grid{
+  display:grid;grid-template-columns:repeat(2,1fr);
+  border-top:1px solid var(--line);border-left:1px solid var(--line);
+}
+@media(min-width:640px){.grid{grid-template-columns:repeat(3,1fr)}}
+@media(min-width:1080px){.grid{grid-template-columns:repeat(4,1fr)}}
+.card{
+  background:var(--bg);padding:1.6rem 1.5rem 1.4rem;min-height:210px;
+  border-right:1px solid var(--line);border-bottom:1px solid var(--line);
+  display:flex;flex-direction:column;position:relative;transition:background .3s;
+}
+.card:hover{background:#fffaf8}
+.card .name{
+  font-weight:600;letter-spacing:.02em;color:var(--ink);font-size:1.15rem;
+  line-height:1.05;text-transform:uppercase;
+}
+.card .desc{margin-top:.9rem;font-size:13.5px;line-height:1.4;color:var(--ink-50);flex:1}
+.card .foot{display:flex;justify-content:space-between;align-items:flex-end;margin-top:1.2rem}
+.visit{font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink);opacity:0;transition:opacity .25s}
+.card:hover .visit{opacity:.7}
+.card:hover .visit:hover{opacity:1}
+.tags{display:flex;gap:.4rem}
+.tag{
+  font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-50);
+  border:1px solid var(--line);border-radius:100px;padding:.2rem .55rem;
+}
+.tag.exit{color:var(--ink);border-color:var(--ink)}
+
+/* ---------- track record (bigger, 2-line intro) ---------- */
+.track .display{font-weight:400;letter-spacing:-.03em;line-height:.98;color:var(--ink);
+  font-size:clamp(2rem,4.5vw,3.4rem);max-width:20ch}
+.track-tail{
+  display:flex;flex-wrap:wrap;justify-content:space-between;gap:1.4rem;align-items:baseline;
+  margin-top:3rem;
+}
+.track-tail .big{font-size:clamp(1.3rem,2.6vw,2rem);letter-spacing:-.02em;color:var(--ink);max-width:24ch;line-height:1.15}
+.pill-link{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink);border-bottom:1px solid var(--ink);padding-bottom:.3rem}
+.pill-link:hover{opacity:.55}
+
+/* ---------- who we are ---------- */
+.who .display{font-size:clamp(1.6rem,3.4vw,2.7rem);letter-spacing:-.02em;line-height:1.12;font-weight:400;max-width:24ch;color:var(--ink)}
+.teams{display:grid;grid-template-columns:1fr;gap:3rem;margin-top:4rem}
+@media(min-width:720px){.teams{grid-template-columns:1fr 1fr}}
+.team h4{font-size:13px;font-weight:500;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-50);margin-bottom:1.3rem}
+.team ul{list-style:none}
+.team li{font-size:clamp(1.2rem,2.4vw,1.7rem);letter-spacing:-.01em;color:var(--ink);padding:.35rem 0;transition:opacity .2s}
+.team li:hover{opacity:.5;cursor:pointer}
+
+/* ---------- scroll reveal ---------- */
+@media(prefers-reduced-motion:no-preference){
+  .reveal{opacity:0;transform:translateY(26px);
+    transition:opacity .8s cubic-bezier(.16,1,.3,1),transform .8s cubic-bezier(.16,1,.3,1)}
+  .reveal.in{opacity:1;transform:none}
+}
+
+/* ---------- footer ---------- */
+footer{border-top:1px solid var(--line);padding:2rem var(--pad);
+  display:flex;justify-content:space-between;font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-50)}
+footer button{background:none;border:0;font:inherit;letter-spacing:inherit;text-transform:inherit;color:var(--ink-50);cursor:pointer}
+footer button:hover{color:var(--ink)}
+</style>
+</head>
+<body>
+
+<div id="loader">
+  <div class="cube">BLUE<br>YARD</div>
+</div>
+<div id="count">000%</div>
+
+<div class="topbar">
+  <a href="#top">Back to home page</a>
+  <a href="#who">Site navigation</a>
+</div>
+
+<main id="top">
+
+  <!-- HERO -->
+  <section class="hero wrap">
+    <h1 class="display reveal" data-hero style="transition-delay:.05s">Will it be Utopia, or Oblivion?</h1>
+    <p class="reveal" data-hero style="transition-delay:.18s">The world feels full of potential, yet completely off its axis. The band of possible outcomes has widened, and the margin for error is deadly sharp.</p>
+    <p class="lede2 reveal" data-hero style="transition-delay:.28s">At BlueYard, we invest in only two kinds of technologies: those that move us toward utopia, and those that hold the line against oblivion.</p>
+    <a class="manifesto-btn reveal" data-hero style="transition-delay:.38s" href="#">Read the manifesto &rarr;</a>
+  </section>
+
+  <!-- TRACK RECORD -->
+  <section class="section track wrap">
+    <h2 class="sec-label" style="margin-bottom:2.4rem">Selected Track Record Highlights</h2>
+    <div class="grid" id="track-grid"></div>
+    <div class="track-tail">
+      <div class="big">N-of-1 visions for an era of Black Swans.</div>
+      <a class="pill-link" href="#">View our full portfolio &rarr;</a>
+    </div>
+  </section>
+
+  <!-- CATEGORY SECTIONS injected by JS -->
+  <div id="categories"></div>
+
+  <!-- WHO WE ARE -->
+  <section class="section who wrap" id="who">
+    <div class="sec-head">
+      <div class="sec-label">Who We Are</div>
+      <p class="display">We are a small and equal partnership based in the US and Europe, founded in 2016, managing $500M in AuM, and deploying our third fund. BlueYard invests $500K – $5M in pre-seed to Series A rounds as a lead or co-lead investor.</p>
+    </div>
+    <div class="teams">
+      <div class="team">
+        <h4>Investment Team</h4>
+        <ul id="invest"></ul>
+      </div>
+      <div class="team">
+        <h4>Operations</h4>
+        <ul id="ops"></ul>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <button onclick="scrollTo({top:0,behavior:'smooth'})">Back to top</button>
+  <span>0012345 / 05</span>
+</footer>
+
+<script>
+/* ---------- data ---------- */
+const track = [
+  ["Castelion","Partnered at pre-seed. Raised $100m Series A and $350m Series B."],
+  ["Flashbots","Partnered at Series A. Has since raised a $60m Series B led by Paradigm."],
+  ["Marvel Fusion","Partnered at inception. Since raised $400m from EQT, HV, Siemens."],
+  ["Protocol Labs","Partnered at seed, with USV. $200m ICO for Filecoin."],
+  ["Chemify","Partnered at seed. Raised $20m Series A and $50m Series B."],
+  ["Groq","GPs invested early from prior funds.","exit,prior"],
+  ["Parloa","AI service infrastructure.","prior"],
+  ["Corintis","Partnered at seed. Since raised $10m Series A by Lip Bu Tan."],
+  ["Peak Games","Acquired by Zynga.","exit,prior"],
+  ["Filecoin","Partnered at inception. $200m ICO + live network with exabytes of storage.","exit"],
+  ["IonQ","Quantum computing, IPO.","exit,prior"],
+  ["Privy","Partnered at seed, with Sequoia. Acquired by Stripe.","exit"],
+];
+const categories = [
+  {label:"Computation & Intelligence",
+   intro:"We invest in applied computation fueling technological breakthroughs enabling a safe, stable, and prosperous world to come — fabric-layer applications most people won't ever see or know about.",
+   cos:[
+    ["Corintis","Partnered at seed. Raised $10m Series A by Lip Bu Tan."],
+    ["Privy","Series A by Paradigm, Ribbit. Acquired by Stripe.","exit"],
+    ["Foresight Data Machines","Partnered at seed, together with Kindred."],
+    ["Groq","GPs invested early from prior funds.","exit,prior"],
+    ["Manex AI","Partnered at seed, together with Lightspeed."],
+    ["Seeqc","Partnered at seed. Raised Series A from EQT."],
+    ["Vectary","Partnered at seed. Raised Series A."],
+    ["Protocol Labs","Partnered at seed, with USV. $200m ICO for Filecoin."],
+    ["FreedomFi","Acquired by Nova Labs.","exit"],
+    ["Ingonyama","Partnered at seed, with Walden Catalyst."],
+    ["Miren","Co-led seed round with USV."],
+    ["Filecoin","$200m ICO + live network with exabytes of storage.","exit"],
+    ["AnySignal","Partnered at seed. Raised Series A from Upfront."],
+    ["Grid","Partnered at seed. Raised $15m Series A, led by NEA."],
+    ["Pitch","Follow-on funding from Index, Thrive, Tiger."],
+    ["Flashbots","Partnered at Series A. $60m Series B led by Paradigm."],
+    ["IonQ","Quantum computing, IPO.","exit,prior"],
+    ["Transcripta Bio","Partnered at seed. $15m Series A, led by Jazz."],
+   ]},
+  {label:"Engineering, Aerospace & Defense",
+   intro:"From engineering our way through planetary challenges, to defending resilient, democratic societies, we fund solutions to the hypermodern problems facing humanity.",
+   cos:[
+    ["Corintis","Partnered at seed. Raised $10m Series A."],
+    ["AnySignal","Partnered at seed. Raised Series A from Upfront."],
+    ["Pinkbot","Autonomous systems."],
+    ["Castelion","Partnered at pre-seed. Raised $100m Series A and $350m Series B."],
+    ["Stark","Unmanned surveillance and strike systems.","prior"],
+    ["Harmattan AI","Autonomous warfare systems.","prior"],
+    ["Farcast","Aerospace systems."],
+    ["VSParticle","Partnered at seed. $15m Series A, led by Plural."],
+    ["ZeroPhase","Resilient comms for unmanned defense systems."],
+    ["Marvel Fusion","Partnered at inception. $400m from EQT, HV, Siemens."],
+   ]},
+  {label:"Biology & Chemistry",
+   intro:"We support foundational bio and chemical technologies that could unlock a longer, healthier human arc — and prepare us for threats we can't yet see.",
+   cos:[
+    ["bit.bio","Partnered at seed. Raised $200m across two follow-on rounds."],
+    ["Biomia","Computational biology."],
+    ["ExpressionEdits","Gene expression tooling."],
+    ["Transcripta Bio","Partnered at seed. $15m Series A, led by Jazz."],
+    ["CPTX","Partnered at seed stage."],
+    ["clock.bio","Partnered at inception. $5m seed round led by LocalGlobe."],
+    ["Insempra","Biomanufacturing."],
+    ["Visolis","Bio-based chemistry."],
+    ["Chemify","Partnered at seed. $20m Series A and $50m Series B."],
+    ["Creasallis","Partnered at seed. $10m Series A by KdT."],
+    ["Aerska","RNA medicines for diseases of the brain."],
+    ["Cytosolix","Partnered at seed, together with Backed."],
+    ["Sensible Bio","Foundational biology."],
+   ]},
+  {label:"Crypto",
+   intro:"The way we move and orchestrate capital must level-up to accommodate faster, tech-enabled economies. We invest in futuristic capital coordination systems that are open, resilient, and frictionless.",
+   cos:[
+    ["Filecoin","$200m ICO + live network with exabytes of storage.","exit"],
+    ["Privy","Series A by Paradigm, Ribbit. Acquired by Stripe.","exit"],
+    ["Centrifuge","Real-world asset network.","exit"],
+    ["Cryptio","Partnered at seed. $15m Series A led by 1kx and Alven."],
+    ["ETHGas","Partnered at seed. Raised Series A from PolyChain."],
+    ["Helium","Decentralized wireless network."],
+    ["Flashbots","Partnered at Series A. $60m Series B led by Paradigm."],
+    ["Protocol Labs","Partnered at seed, with USV. $200m ICO for Filecoin."],
+    ["Decred","Autonomous digital currency.","exit"],
+    ["Ethereum","World computer."],
+    ["Ingonyama","Partnered at seed, with Walden Catalyst."],
+    ["Infinex","Partnered at NFT Patron stage."],
+    ["Cosmos","Internet of blockchains."],
+    ["Forta","$23m a16z Series A. Now a liquid network.","exit"],
+    ["Ink & Switch","The future of tools for thought."],
+    ["Radworks","Co-led seed with Placeholder. Now a liquid network.","exit"],
+    ["Kiln","Series A by 1kx and Illuminate."],
+    ["Syndicate","Partnered at seed. Now live network."],
+   ]},
+];
+const investTeam = ["Chad Fowler","Ciarán O'Leary","David Byrd","Mike Wax","Jason Whitmire","Tim Robinson","Alejo Salles","Peter Read","Philipp Banhardt","Trent McConaghy"];
+const opsTeam = ["Christine Fuchs","Cristel Mayer","Jonah Kaplan","Lucille Swan","Lukas Hänle","Martina Bortot","Yenilee Ičagić"];
+
+/* ---------- render ---------- */
+const tagHtml = t => !t ? "" :
+  '<div class="tags">'+t.split(",").map(x=>`<span class="tag ${x==="exit"?"exit":""}">${x==="exit"?"Exit":"Prior work"}</span>`).join("")+'</div>';
+const card = ([name,desc,tags],i=0) => `
+  <article class="card reveal" style="transition-delay:${(i%4)*55}ms">
+    <div class="name">${name}</div>
+    <div class="desc">${desc||""}</div>
+    <div class="foot"><span class="visit">Visit site &rarr;</span>${tagHtml(tags)}</div>
+  </article>`;
+
+document.getElementById("track-grid").innerHTML = track.map(card).join("");
+
+document.getElementById("categories").innerHTML = categories.map(c => `
+  <section class="section wrap">
+    <div class="sec-head reveal">
+      <div class="sec-label">${c.label}</div>
+      <p class="sec-intro">${c.intro}</p>
+    </div>
+    <div class="grid">${c.cos.map(card).join("")}</div>
+  </section>`).join("");
+
+document.getElementById("invest").innerHTML = investTeam.map((n,i)=>`<li class="reveal" style="transition-delay:${i*40}ms">${n}</li>`).join("");
+document.getElementById("ops").innerHTML = opsTeam.map((n,i)=>`<li class="reveal" style="transition-delay:${i*40}ms">${n}</li>`).join("");
+
+/* mark static blocks for reveal too */
+document.querySelectorAll(".track > .sec-label, .track-tail, .who .sec-head").forEach(el=>el.classList.add("reveal"));
+
+/* ---------- intersection observer ---------- */
+(function(){
+  const els=document.querySelectorAll(".reveal:not([data-hero])");
+  if(!("IntersectionObserver" in window)){document.querySelectorAll(".reveal").forEach(e=>e.classList.add("in"));return;}
+  const io=new IntersectionObserver((entries)=>{
+    entries.forEach(en=>{ if(en.isIntersecting){en.target.classList.add("in");io.unobserve(en.target);} });
+  },{rootMargin:"0px 0px -8% 0px",threshold:.12});
+  els.forEach(e=>io.observe(e));
+})();
+
+/* ---------- loader count ---------- */
+(function(){
+  const el=document.getElementById("count"),loader=document.getElementById("loader");
+  let n=0;
+  const t=setInterval(()=>{
+    n+=Math.max(1,Math.round((100-n)*0.08));
+    if(n>=100){n=100;clearInterval(t);
+      setTimeout(()=>{
+        loader.classList.add("done");el.style.opacity=0;
+        document.querySelectorAll('[data-hero]').forEach(h=>h.classList.add('in'));
+      },300);}
+    el.textContent=String(n).padStart(3,"0")+"%";
+  },70);
+})();
+</script>
+</body>
+</html>

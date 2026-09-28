@@ -1,0 +1,23 @@
+{
+  "name": "igloo-clone",
+  "version": "1.0.0",
+  "description": "100% authentic clone of igloo.inc with interactive 3D WebGL, Draco geometries, KTX2 textures, Web Workers, spatial audio, and GSAP timeline animations",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "download:assets": "python3 scripts/download-igloo-assets.py",
+    "check": "node scripts/verify.mjs"
+  },
+  "keywords": [
+    "igloo",
+    "threejs",
+    "gsap",
+    "webgl",
+    "clone",
+    "draco",
+    "ktx2"
+  ],
+  "author": "Ravi Arnan <raviarnankeren@gmail.com>",
+  "license": "MIT"
+}

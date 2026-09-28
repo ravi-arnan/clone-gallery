@@ -1,0 +1,23 @@
+{
+  "name": "animejs-clone",
+  "version": "1.0.0",
+  "description": "Fully animated offline clone of animejs.com with 3D WebGL engine, all 22 GLB models, Draco WASM, interactive demos, and easings",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "check": "node scripts/verify.mjs",
+    "build": "node scripts/build-localized-html.mjs"
+  },
+  "keywords": [
+    "animejs",
+    "clone",
+    "threejs",
+    "3d",
+    "webgl",
+    "animations",
+    "draco"
+  ],
+  "author": "Ravi Arnan <raviarnankeren@gmail.com>",
+  "license": "MIT"
+}

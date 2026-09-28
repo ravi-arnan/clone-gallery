@@ -1,0 +1,23 @@
+{
+  "name": "atlasmotion-clone",
+  "version": "1.0.0",
+  "description": "100% authentic, fully animated clone of atlasmotion.com with interactive 3D WebGL, GSAP timelines, binary buffer geometries (.buf), textures, and video streaming",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "download:assets": "python3 scripts/download-assets.py",
+    "check": "node scripts/verify.mjs"
+  },
+  "keywords": [
+    "atlasmotion",
+    "threejs",
+    "gsap",
+    "webgl",
+    "clone",
+    "buffer-geometry",
+    "3d"
+  ],
+  "author": "Ravi Arnan <raviarnankeren@gmail.com>",
+  "license": "MIT"
+}

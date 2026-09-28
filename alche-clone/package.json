@@ -1,0 +1,27 @@
+{
+  "name": "alche-clone",
+  "version": "1.0.0",
+  "description": "100% authentic, fully animated clone of https://alche.studio/ featuring WebGL2 Three.js 3D rendering, interactive GLB buffer models (scene.glb), CubeTexture environment mapping, Howler audio spatial triggers, GSAP ScrollTrigger timeline orchestration, and Lenis smooth scrolling",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "download:assets": "python3 scripts/download-all-assets.py",
+    "build:html": "python3 scripts/build-localized-html.py",
+    "check": "node scripts/verify.mjs"
+  },
+  "keywords": [
+    "alche",
+    "threejs",
+    "webgl2",
+    "gsap",
+    "scrolltrigger",
+    "lenis",
+    "3d",
+    "clone",
+    "lottie",
+    "shaders"
+  ],
+  "author": "Ravi Arnan <raviarnankeren@gmail.com>",
+  "license": "MIT"
+}

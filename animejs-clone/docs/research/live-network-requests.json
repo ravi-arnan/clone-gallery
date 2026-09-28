@@ -1,0 +1,1554 @@
+[
+  {
+    "url": "https://animejs.com/",
+    "method": "GET",
+    "resourceType": "document",
+    "headers": {
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Linux\""
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/css/core.css?v=1787698626",
+    "method": "GET",
+    "resourceType": "stylesheet",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/css/home.css?v=1787698626",
+    "method": "GET",
+    "resourceType": "stylesheet",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-16LTPBS8QC",
+    "method": "GET",
+    "resourceType": "script",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/images/anime-js-logo-v4.svg",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://cdn.carbonads.com/carbon.js?serve=CWBITK77&placement=animejscom&format=responsive",
+    "method": "GET",
+    "resourceType": "script",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/js/home.js?v=1787698626",
+    "method": "GET",
+    "resourceType": "script",
+    "headers": {
+      "origin": "https://animejs.com",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/fonts/BerkeleyMono-Regular.woff2",
+    "method": "GET",
+    "resourceType": "font",
+    "headers": {
+      "origin": "https://animejs.com",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/assets/css/core.css?v=1787698626",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/fonts/DINish[slnt,wdth,wght].woff2",
+    "method": "GET",
+    "resourceType": "font",
+    "headers": {
+      "origin": "https://animejs.com",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/assets/css/core.css?v=1787698626",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://srv.carbonads.net/ads/CWBITK77.json?segment=placement:animejscom",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "x-origin": "https://animejs.com/",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-client": "carbon.js/20260527 (serveUrl:CWBITK77;serve:CWBITK77;format:responsive)"
+    }
+  },
+  {
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-16LTPBS8QC&gtm=45je69g1v9123053226za200zd9123053226xf1&_p=1789877781412&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAGA&cid=425621159.1789877782&frm=0&pscdl=noapi&rcb=14&sr=1440x900&uaa=x86&uab=64&uafvl=Chromium%3B152.0.7977.64%7CNot%253FA_Brand%3B24.0.0.0%7CGoogle%2520Chrome%3B152.0.7977.64&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153&sid=1789877781&sct=1&seg=0&dl=https%3A%2F%2Fanimejs.com%2F&dt=Anime.js%20%7C%20JavaScript%20Animation%20Engine&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=2773",
+    "method": "POST",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-16LTPBS8QC&cid=425621159.1789877782&gtm=45je69g1v9123053226za200zd9123053226xf1&rcb=14&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153",
+    "method": "POST",
+    "resourceType": "ping",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://www.google.co.id/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-16LTPBS8QC&cid=425621159.1789877782&gtm=45je69g1v9123053226za200zd9123053226xf1&rcb=14&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153&z=110638373",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://srv.carbonads.net/ads/CK7DT53I.json?segment=placement:animejscom",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "x-origin": "https://animejs.com/",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-client": "carbon.js/20260527 (serveUrl:CWBITK77;serve:CWBITK77;format:responsive)"
+    }
+  },
+  {
+    "url": "https://srv.carbonads.net/static/30242/6d8988794d4c3f29275f187830980a61c8e59feb",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://cnv.event.prod.bidr.io/log/cnv?tag_id=3503&buzz_key=dsp&value=&account_id=79&order=[ORDER]&ord=[CACHEBUSTER]",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://segment.prod.bidr.io/associate-segment?buzz_key=dsp&segment_key=dsp-19102",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://secure.adnxs.com/px?id=1777282&t=2",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://secure.adnxs.com/seg?add=37012073&t=2",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://sp.analytics.yahoo.com/spp.pl?a=10000&.yp=10207075&he=&hph=&gv=[ORDER_VALUE]&orderId=[ORDER_ID]&ec=[EVENT_CATEGORY]&ea=fire&el=[EVENT_LABEL]",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://ad.doubleclick.net/ddm/activity/src=15643656;type=sales;cat=408690;qty=1;cost=[Revenue];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;gdpr=$;gdpr_consent=$;ord=[OrderID]?",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://insight.adsrvr.org/track/pxl/?adv=t3k9qrj&ct=0:djrfa1z&fmt=3&orderid=&v=",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://ad.doubleclick.net/ddm/activity/src=15643656;dc_pre=COuKmKum_JYDFZuESwUdVnkjsQ;type=sales;cat=408690;qty=1;cost=[Revenue];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;gdpr=$;gdpr_consent=$;ord=[OrderID]?",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "referer": "https://animejs.com/"
+    }
+  },
+  {
+    "url": "https://pixel.rubiconproject.com/tap.php?v=8981&nid=2307&put=f956c37f-7e6a-41f8-893a-7cb6eb983459&gdpr=0&gdpr_consent=&expires=30&next=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Frubicon",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "referer": "https://animejs.com/"
+    }
+  },
+  {
+    "url": "https://match.adsrvr.org/track/cmf/rubicon?gdpr=0",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "referer": "https://animejs.com/"
+    }
+  },
+  {
+    "url": "https://cnv.event.prod.bidr.io/log/cnv?tag_id=3503&buzz_key=dsp&value=&account_id=79&order=%5BORDER%5D&ord=%5BCACHEBUSTER%5D&_bee_ppp=1",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "referer": "https://animejs.com/"
+    }
+  },
+  {
+    "url": "https://segment.prod.bidr.io/associate-segment?buzz_key=dsp&segment_key=dsp-19102&_bee_ppp=1",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "referer": "https://animejs.com/"
+    }
+  },
+  {
+    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=11875971711849199626;_dc_ptd=ChEI8OW41QYQpqa3qMvkhOj7ARIfAP5XfPObLZ29HbVQi2c2L312GXJspRVwhmSMYe23mQ;_dc_time=1789877782;src=15643656;dc_pre=COuKmKum_JYDFZuESwUdVnkjsQ;type=sales;cat=408690;qty=1;cost=[Revenue];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;gdpr=$;gdpr_consent=$;ord=[OrderID]?",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "referer": "https://animejs.com/"
+    }
+  },
+  {
+    "url": "https://ib.adnxs.com/getuid?https%3a%2f%2fmatch.adsrvr.org%2ftrack%2fcmf%2fappnexus%3fttd%3d1%26anid%3d%24UID&ttd_tdid=f956c37f-7e6a-41f8-893a-7cb6eb983459",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "referer": "https://animejs.com/"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/js/chunks/chunk-WQVFBASJ.js",
+    "method": "GET",
+    "resourceType": "script",
+    "headers": {
+      "origin": "https://animejs.com",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/assets/js/home.js?v=1787698626",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/js/chunks/chunk-WXAKRBIO.js",
+    "method": "GET",
+    "resourceType": "script",
+    "headers": {
+      "origin": "https://animejs.com",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/assets/js/home.js?v=1787698626",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/js/chunks/chunk-N6I4AEHZ.js",
+    "method": "GET",
+    "resourceType": "script",
+    "headers": {
+      "origin": "https://animejs.com",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/assets/js/home.js?v=1787698626",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/js/chunks/chunk-FX45FQRC.js",
+    "method": "GET",
+    "resourceType": "script",
+    "headers": {
+      "origin": "https://animejs.com",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/assets/js/home.js?v=1787698626",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/js/chunks/chunk-CPVC3KGU.js",
+    "method": "GET",
+    "resourceType": "script",
+    "headers": {
+      "origin": "https://animejs.com",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/assets/js/home.js?v=1787698626",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/js/chunks/chunk-DCANE7XH.js",
+    "method": "GET",
+    "resourceType": "script",
+    "headers": {
+      "origin": "https://animejs.com",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/assets/js/home.js?v=1787698626",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/sponsors/platinum-sponsors",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/sponsors/silver-sponsors",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/sponsors/github-sponsors",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/models/module-animate-01.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/models/module-easing-01.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/models/module-draggable-01.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/models/module-draggable-02.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/models/module-scroll-01.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/models/module-engine-01.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/models/module-scope-01.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/models/module-timer-01.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/models/module-timer-02.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/models/module-timer-03.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/models/module-timer-04.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/models/module-timer-05.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/models/module-stagger-01.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/models/module-stagger-02.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/models/module-spring-01.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/models/module-svg-01.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/models/module-timeline-01.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/models/module-timeline-02.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/models/module-renderer-01.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/models/module-waapi-01.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/models/module-shield-01.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/models/module-shield-02.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/images/favicon.png",
+    "method": "GET",
+    "resourceType": "other",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/1255528?u=03abccfc54f1c49b1317cce0528632b573722684&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/335118?v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/7850794?u=c7a82c242c85e58c8ceeac958e7f9ad774f2147b&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/217863722?v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/15028082?v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/374134?v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/72539280?v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/37394584?u=0a4171427e4f16d8fe0a1e57af04c43e21ab6ed0&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/579887?u=16c3e4c14be7e3700b04f91ea9003d6d9b4c65df&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/8601493?u=4ee62b87479fbfb7ea8b5e20ed910c3824b1c310&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/16688047?u=37490b86ccfb7a60b3dfdea411ee196ece08d456&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/38730517?u=305b8b15a7cd43488d594f3ce28b4ef2951217b5&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/4266359?u=baee5a32c570af66b8a554df33701e11dea8a5fc&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/4593699?v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/22761713?v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/412352?u=aae5e2d4f1a518805529da191830c3c5fa1db5fe&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/1492806?u=6edbac420bab75f3692e0ddec4431cfb5434b748&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/645713?v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/801425?u=8695668d7fd93bc31264ca6a739a64618e4ac444&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/203968980?u=69ae5d7a543e6d070a4c885edce191288d8a5b8b&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/9310?u=179151b7c0e01aa08598bfc041508a83998c759e&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/1351436?u=eaf9fdf001221636b78b574f9c4e115b592f5a48&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/123018012?v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/7118754?u=2fdcdec87990222f732dd517f0cfd35afc4194cc&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/456538?u=ace3c7cc31bd8b8d7e0df844061a9d3401f92ecb&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/24833827?u=23434967a0a3af479a377aa54f6ca9306ce36355&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/16178877?u=739b6e357c3c58a0bf10f929bc0a2580e849daa1&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/11381341?v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/107817481?u=cfb66d78c84e423f4a0c950473f1a98e8be44fc6&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/1682225?u=aed3340b6f3c3a85abcb0370e854cb8ffb6ecf1e&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/8617673?u=770d2e1cb0cf72212f3f425e178f2e2068a2f893&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/95952866?u=f4a0773cc5205cc4b531bdd87039b9e6a42f31d2&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/14859935?u=915c2e3e2ff24d493818d4230974ea288ee80a40&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/171592363?u=080d9ba6069d0ff2a0558825ff2f667c45807687&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/13168561?u=0c8ae2cf90de781073693984fe03d6f0396919b7&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/21299126?u=2d1bbde99e3e5c845faf50f4da1ad120b88bcf4d&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/2158130?u=5adde8fd6a285602abcda956c80ee909529d7c5e&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/4730431?u=810f2f1b1e34cf036d1f43380dcadc4d64b0b2de&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/1417323?u=12876f6373e65427454a3616b219e1d3f3c78a8e&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/20308945?u=f38b5218c48a8c4062d317450bb404cc9b361ee6&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/8131304?v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/171258970?v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/40425150?v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/5545171?u=ba1b5f5376949d6ab5a451c1587de028768904b1&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/7050547?u=50b846f10e206481e93656b73f9eb11088499c56&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/15368010?u=d27a3d5bc457e9e1c48a8bd9e501cafe01b8daec&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/30808859?u=a7a495be11f99ca9b492c88f647760cbfb7a687b&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/14097554?u=f823ef7666925188e5ebec12ede0582b0f471dfd&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/56684844?u=15591a4cd624676b8534311a31a897503d0d3aab&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/52384531?v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/213351?v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/6699959?u=bd2dde1f6570f2024c07aea866c2fec6042c55a5&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/1908341?v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/685518?u=4a6880fc67b9455e2e9af9f531f8aac4bf0cd606&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/4291354?u=d62b6917e998cb98640c1b6d0c102c656b2ada17&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/2091293?u=6e51eb1a83632573fd481be390949b0880dd66fe&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/140085084?v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/1121725?v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/3381818?u=3a2f9f9d3fffbaaebc3c56b863b4ca2aae508510&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/24498666?v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/223952?u=0b5113ecd9aa4c3f3a4bd44815fc36c89c913229&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/84647728?u=0da38d40520d88563af56c87f2c0ba7fbb8080c1&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/47975771?u=6dc0328cb90cd8b70a428e431ba28368a361e691&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/7033186?v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/123049964?v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://avatars.githubusercontent.com/u/78906517?u=924a27cbee3db7e0ece5cc1509921402e1445e74&v=4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/draco/draco_wasm_wrapper.js",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/assets/draco/draco_decoder.wasm",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://animejs.com/media/pages/sponsors/platinum-sponsors/ef1c9c6c85-1787698629/sponsor-placeholder.svg",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://animejs.com/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  }
+]

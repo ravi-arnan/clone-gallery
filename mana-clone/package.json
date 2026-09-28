@@ -1,0 +1,26 @@
+{
+  "name": "mana-clone",
+  "version": "1.0.0",
+  "description": "100% authentic, fully animated clone of https://en.manayerbamate.com/ featuring interactive 3D WebGL can simulation, HDR environment reflections, GSAP ScrollTrigger orchestration, Lottie animations, Swiper slider, and playable footer runner mini-game",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "check": "node scripts/verify.mjs",
+    "download:assets": "nice -n 19 python3 scripts/download-assets.py"
+  },
+  "keywords": [
+    "mana",
+    "threejs",
+    "webgl",
+    "gsap",
+    "scrolltrigger",
+    "lottie",
+    "gltf",
+    "3d",
+    "clone",
+    "awwwards"
+  ],
+  "author": "Ravi Arnan <raviarnankeren@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,380 @@
+[
+  {
+    "url": "https://alche.studio/",
+    "status": 200,
+    "contentType": "text/html",
+    "contentLength": 0
+  },
+  {
+    "url": "https://alche.studio/_astro/index.DnJ5xLaK.css",
+    "status": 200,
+    "contentType": "text/css",
+    "contentLength": 0
+  },
+  {
+    "url": "https://alche.studio/_astro/about.DKIoZJhT.css",
+    "status": 200,
+    "contentType": "text/css",
+    "contentLength": 0
+  },
+  {
+    "url": "https://alche.studio/_astro/index.CQ0ApTUm.css",
+    "status": 200,
+    "contentType": "text/css",
+    "contentLength": 0
+  },
+  {
+    "url": "https://alche.studio/_astro/about.Bk-C3ZjO.css",
+    "status": 200,
+    "contentType": "text/css",
+    "contentLength": 0
+  },
+  {
+    "url": "https://alche.studio/_astro/page.SNkKDTDH.js",
+    "status": 200,
+    "contentType": "text/javascript",
+    "contentLength": 0
+  },
+  {
+    "url": "https://alche.studio/top/fortnite.png",
+    "status": 200,
+    "contentType": "image/png",
+    "contentLength": "9301"
+  },
+  {
+    "url": "https://alche.studio/top/ue2.png",
+    "status": 200,
+    "contentType": "image/png",
+    "contentLength": "24102"
+  },
+  {
+    "url": "https://alche.studio/stellla/logo_stellla.png",
+    "status": 200,
+    "contentType": "image/png",
+    "contentLength": "19536"
+  },
+  {
+    "url": "https://alche.studio/common/alche_logo.svg",
+    "status": 200,
+    "contentType": "image/svg+xml",
+    "contentLength": 0
+  },
+  {
+    "url": "https://alche.studio/_astro/index.astro_astro_type_script_index_0_lang.Cn_goiN_.js",
+    "status": 200,
+    "contentType": "text/javascript",
+    "contentLength": 0
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-R00M7W3JTS",
+    "status": 200,
+    "contentType": "application/javascript; charset=UTF-8",
+    "contentLength": "176566"
+  },
+  {
+    "url": "https://alche.studio/_astro/ibm-plex-mono-latin-400-normal.Dm_PoFIZ.woff2",
+    "status": 200,
+    "contentType": "font/woff2",
+    "contentLength": "14812"
+  },
+  {
+    "url": "https://alche.studio/_astro/google-sans-code-latin-400-normal.5lTHPz_z.woff2",
+    "status": 200,
+    "contentType": "font/woff2",
+    "contentLength": "11944"
+  },
+  {
+    "url": "https://alche.studio/envmap/px.png",
+    "status": 200,
+    "contentType": "image/png",
+    "contentLength": "105794"
+  },
+  {
+    "url": "https://alche.studio/envmap/nx.png",
+    "status": 200,
+    "contentType": "image/png",
+    "contentLength": "157067"
+  },
+  {
+    "url": "https://alche.studio/envmap/py.png",
+    "status": 200,
+    "contentType": "image/png",
+    "contentLength": "269685"
+  },
+  {
+    "url": "https://alche.studio/404/ascii_texture.png",
+    "status": 200,
+    "contentType": "image/png",
+    "contentLength": "4362"
+  },
+  {
+    "url": "https://alche.studio/top/logo.png",
+    "status": 200,
+    "contentType": "image/png",
+    "contentLength": "28380"
+  },
+  {
+    "url": "https://alche.studio/envmap/ny.png",
+    "status": 200,
+    "contentType": "image/png",
+    "contentLength": "143615"
+  },
+  {
+    "url": "https://alche.studio/top/service-title.png",
+    "status": 200,
+    "contentType": "image/png",
+    "contentLength": "12067"
+  },
+  {
+    "url": "https://alche.studio/top/works-title.png",
+    "status": 200,
+    "contentType": "image/png",
+    "contentLength": "15955"
+  },
+  {
+    "url": "https://alche.studio/envmap/pz.png",
+    "status": 200,
+    "contentType": "image/png",
+    "contentLength": "161478"
+  },
+  {
+    "url": "https://alche.studio/envmap/nz.png",
+    "status": 200,
+    "contentType": "image/png",
+    "contentLength": "167727"
+  },
+  {
+    "url": "https://alche.studio/common/scene.glb",
+    "status": 200,
+    "contentType": "model/gltf-binary",
+    "contentLength": "685324"
+  },
+  {
+    "url": "https://alche.studio/common/loading.svg",
+    "status": 200,
+    "contentType": "image/svg+xml",
+    "contentLength": 0
+  },
+  {
+    "url": "https://alche.studio/sounds/bgm.mp3",
+    "status": 200,
+    "contentType": "audio/mpeg",
+    "contentLength": "1011840"
+  },
+  {
+    "url": "https://alche.studio/top/service/ue.mp4",
+    "status": 206,
+    "contentType": "video/mp4",
+    "contentLength": "4035579"
+  },
+  {
+    "url": "https://alche.studio/top/service/uefn.mp4",
+    "status": 206,
+    "contentType": "video/mp4",
+    "contentLength": "3529029"
+  },
+  {
+    "url": "https://alche.studio/top/service/stellla.mp4",
+    "status": 206,
+    "contentType": "video/mp4",
+    "contentLength": "5064361"
+  },
+  {
+    "url": "https://alche.studio/common/loading/bg/data.json",
+    "status": 200,
+    "contentType": "application/json",
+    "contentLength": 0
+  },
+  {
+    "url": "https://alche.studio/sounds/works_in.mp3",
+    "status": 200,
+    "contentType": "audio/mpeg",
+    "contentLength": "40416"
+  },
+  {
+    "url": "https://alche.studio/sounds/typing.mp3",
+    "status": 200,
+    "contentType": "audio/mpeg",
+    "contentLength": "256320"
+  },
+  {
+    "url": "https://alche.studio/sounds/mission_in.mp3",
+    "status": 200,
+    "contentType": "audio/mpeg",
+    "contentLength": "11195"
+  },
+  {
+    "url": "https://alche.studio/common/loading/logo/data.json",
+    "status": 200,
+    "contentType": "application/json",
+    "contentLength": 0
+  },
+  {
+    "url": "https://use.typekit.net/ukr2yqt.js",
+    "status": 200,
+    "contentType": "text/javascript;charset=utf-8",
+    "contentLength": "140692"
+  },
+  {
+    "url": "blob:https://alche.studio/067ff5ca-a527-41c2-bb59-f354cda47ecf",
+    "status": 200,
+    "contentType": "image/svg+xml",
+    "contentLength": "2977"
+  },
+  {
+    "url": "https://use.typekit.net/af/1a756d/00000000000000007735d927/31/l?unicode=AAAHygAAAAdhg4V2jXrgvTqablOmIuR90xJ6f7oYX7HHszHOhbuHChMcgQn5RM8D_2_09h-EDof5QbhEgbbA63nwPrW_c-fWpSq9I3W2wnPr2mXL5hwU9XCfpfCkLYjBT4lM8H7L4ONWX3ugfaTSwXm4HDcbyteaHuCpkuHywfcZB3Qmfrf-lhmtbmdiEYP1_3wmtwTqUe-84RpPif-WvZba-nEoqF8x54v53DpQrOTj48ldu33mIr3t5_p7J-7EIbKWiAPY-6fOlmzgfKcT52EWvLAE-pP79aefMQlHioFliM5EGken-uDgxR0sm5rfhBd4WUTkH-k-gPs7g-WyugAAAb0&features=ALL&v=3",
+    "status": 200,
+    "contentType": "application/font-woff2",
+    "contentLength": "61680"
+  },
+  {
+    "url": "https://use.typekit.net/af/df6585/00000000000000007735d404/31/l?unicode=AAAH1AAAAAcRv6_WaG9-OwvDrhn4RB_9i_4V6F8Uy_fJETfgT7pgIAJxtbuqjFtdyS7i9RxigBzkWW6oStRCdF_nmvf2R5gaw4DD-vtwER4g8tGNAhck331emp0srIDUd8tzWS7Adk20giDxJj9fl0_EvRgH9yln87vj-NzBDxYLIs9oIPh9H8Pqm5k575QnvDn8-BMUadv_1E1a0TbBWZDRj4-E_hYdfPKq4TWHraEcE-ilfTf9pnhPwHA6dWL-SZiCveuOgi5uYuyQoCdsUmV3mXI1wHuKsQLGzHvr942wevot_gparEyocj4upnCOy-2oj-o6ZdvaNDxBgGsmHAAP_8E&features=ALL&v=3",
+    "status": 200,
+    "contentType": "application/font-woff2",
+    "contentLength": "27924"
+  },
+  {
+    "url": "https://use.typekit.net/af/25fdd3/00000000000000007735d40b/31/l?unicode=AAAH1AAAAAcRv6_WaG9-OwvDrhn4RB_9i_4V6F8Uy_fJETfgT7pgIAJxtbuqjFtdyS7i9RxigBzkWW6oStRCdF_nmvf2R5gaw4DD-vtwER4g8tGNAhck331emp0srIDUd8tzWS7Adk20giDxJj9fl0_EvRgH9yln87vj-NzBDxYLIs9oIPh9H8Pqm5k575QnvDn8-BMUadv_1E1a0TbBWZDRj4-E_hYdfPKq4TWHraEcE-ilfTf9pnhPwHA6dWL-SZiCveuOgi5uYuyQoCdsUmV3mXI1wHuKsQLGzHvr942wevot_gparEyocj4upnCOy-2oj-o6ZdvaNDxBgGsmHAAP_8E&features=ALL&v=3",
+    "status": 200,
+    "contentType": "application/font-woff2",
+    "contentLength": "27308"
+  },
+  {
+    "url": "https://use.typekit.net/af/917a00/0000000000000000774a672d/31/l?unicode=AAAHygAAAAdhg4V2jXrgvTqablOmIuR90xJ6f7oYX7HHszHOhbuHChMcgQn5RM8D_2_09h-EDof5QbhEgbbA63nwPrW_c-fWpSq9I322wnPr2mXL5hwU9XCfpfCkLYjBT4lM8H7L4ONWX3ugfaTSwXm4HDcbyteaHuCpkuHywecZB3Qmfrf-lhmtbmdiEYP1_3wmtwTqUe-84RpPif-WvZba-nUoqF8x54v53DpQrOTj48ldu33mIr3t5_p7J-7EIbKWiAPY-6fOlmzgfKcT52EWvLAE-pP79aefMQlHioFliM5EGken-ODgxR0sm5rfhBd4WUTkH-l-gPs7g-WyugAAAb0&features=ALL&v=3",
+    "status": 200,
+    "contentType": "application/font-woff2",
+    "contentLength": "51296"
+  },
+  {
+    "url": "https://use.typekit.net/af/69ae2f/00000000000000007735d41c/31/l?unicode=AAAH1AAAAAcRv6_WaG9-OwvDrhn4RB_9i_4V6F8Uy_fJETfgT7pgIAJxtbuqjFtdyS7i9RxigBzkWW6oStRCdF_nmvf2R5gaw4DD-vtwER4g8tGNAhck331emp0srIDUd8tzWS7Adk20giDxJj9fl0_EvRgH9yln87vj-NzBDxYLIs9oIPh9H8Pqm5k575QnvDn8-BMUadv_1E1a0TbBWZDRj4-E_hYdfPKq4TWHraEcE-ilfTf9pnhPwHA6dWL-SZiCveuOgi5uYuyQoCdsUmV3mXI1wHuKsQLGzHvr942wevot_gparEyocj4upnCOy-2oj-o6ZdvaNDxBgGsmHAAP_8E&features=ALL&v=3",
+    "status": 200,
+    "contentType": "application/font-woff2",
+    "contentLength": "27588"
+  },
+  {
+    "url": "https://use.typekit.net/af/7cfafa/00000000000000007735d431/31/l?unicode=AAAH1AAAAAcRv6_WaG9-OwvDrhn4RB_9i_4V6F8Uy_fJETfgT7pgIAJxtbuqjFtdyS7i9RxigBzkWW6oStRCdF_nmvf2R5gaw4DD-vtwER4g8tGNAhck331emp0srIDUd8tzWS7Adk20giDxJj9fl0_EvRgH9yln87vj-NzBDxYLIs9oIPh9H8Pqm5k575QnvDn8-BMUadv_1E1a0TbBWZDRj4-E_hYdfPKq4TWHraEcE-ilfTf9pnhPwHA6dWL-SZiCveuOgi5uYuyQoCdsUmV3mXI1wHuKsQLGzHvr942wevot_gparEyocj4upnCOy-2oj-o6ZdvaNDxBgGsmHAAP_8E&features=ALL&v=3",
+    "status": 200,
+    "contentType": "application/font-woff2",
+    "contentLength": "28132"
+  },
+  {
+    "url": "https://use.typekit.net/af/d1cf7e/00000000000000007735d43e/31/l?unicode=AAAH1AAAAAcRv6_WaG9-OwvDrhn4RB_9i_4V6F8Uy_fJETfgT7pgIAJxtbuqjFtdyS7i9RxigBzkWW6oStRCdF_nmvf2R5gaw4DD-vtwER4g8tGNAhck331emp0srIDUd8tzWS7Adk20giDxJj9fl0_EvRgH9yln87vj-NzBDxYLIs9oIPh9H8Pqm5k575QnvDn8-BMUadv_1E1a0TbBWZDRj4-E_hYdfPKq4TWHraEcE-ilfTf9pnhPwHA6dWL-SZiCveuOgi5uYuyQoCdsUmV3mXI1wHuKsQLGzHvr942wevot_gparEyocj4upnCOy-2oj-o6ZdvaNDxBgGsmHAAP_8E&features=ALL&v=3",
+    "status": 200,
+    "contentType": "application/font-woff2",
+    "contentLength": "26508"
+  },
+  {
+    "url": "https://use.typekit.net/af/2cfac8/00000000000000007735d419/31/l?unicode=AAAH1AAAAAcRv6_WaG9-OwvDrhn4RB_9i_4V6F8Uy_fJETfgT7pgIAJxtbuqjFtdyS7i9RxigBzkWW6oStRCdF_nmvf2R5gaw4DD-vtwER4g8tGNAhck331emp0srIDUd8tzWS7Adk20giDxJj9fl0_EvRgH9yln87vj-NzBDxYLIs9oIPh9H8Pqm5k575QnvDn8-BMUadv_1E1a0TbBWZDRj4-E_hYdfPKq4TWHraEcE-ilfTf9pnhPwHA6dWL-SZiCveuOgi5uYuyQoCdsUmV3mXI1wHuKsQLGzHvr942wevot_gparEyocj4upnCOy-2oj-o6ZdvaNDxBgGsmHAAP_8E&features=ALL&v=3",
+    "status": 200,
+    "contentType": "application/font-woff2",
+    "contentLength": "28356"
+  },
+  {
+    "url": "https://use.typekit.net/af/717208/00000000000000007735d452/31/l?unicode=AAAH1AAAAAcRv6_WaG9-OwvDrhn4RB_9i_4V6F8Uy_fJETfgT7pgIAJxtbuqjFtdyS7i9RxigBzkWW6oStRCdF_nmvf2R5gaw4DD-vtwER4g8tGNAhck331emp0srIDUd8tzWS7Adk20giDxJj9fl0_EvRgH9yln87vj-NzBDxYLIs9oIPh9H8Pqm5k575QnvDn8-BMUadv_1E1a0TbBWZDRj4-E_hYdfPKq4TWHraEcE-ilfTf9pnhPwHA6dWL-SZiCveuOgi5uYuyQoCdsUmV3mXI1wHuKsQLGzHvr942wevot_gparEyocj4upnCOy-2oj-o6ZdvaNDxBgGsmHAAP_8E&features=ALL&v=3",
+    "status": 200,
+    "contentType": "application/font-woff2",
+    "contentLength": "27932"
+  },
+  {
+    "url": "https://p.typekit.net/p.gif?s=1&k=ukr2yqt&ht=tk&h=alche.studio&f=6771.21540.21545.26053.26055.26058.26062.26065.26072.26086.26141.29403.35819.35820.47290.47292&a=25319415&js=1.12.0&app=typekit&e=js&_=1790351035800",
+    "status": 200,
+    "contentType": "image/gif",
+    "contentLength": "35"
+  },
+  {
+    "url": "https://use.typekit.net/af/7e3076/000000000000000077359512/31/m?features=ALL&v=4&chunks=1.193.200.203.205.207.210.224.228.231&order=0",
+    "status": 200,
+    "contentType": "font/opentype",
+    "contentLength": "1916765"
+  },
+  {
+    "url": "https://use.typekit.net/af/82466f/00000000000000007735eb3e/31/m?features=ALL&v=4&chunks=3.168.319.325.333.341.344.359.362.365&order=0",
+    "status": 200,
+    "contentType": "font/opentype",
+    "contentLength": "798391"
+  },
+  {
+    "url": "https://use.typekit.net/af/c3f853/000000000000000077359482/31/m?features=ALL&v=4&chunks=7.295.304.308.328.329.341.345.353.356.365.377.392.400.403.408.415.444.451.457&order=0",
+    "status": 200,
+    "contentType": "font/opentype",
+    "contentLength": "1447957"
+  },
+  {
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-R00M7W3JTS&gtm=45je69o0h2v9118491058za200zd9118491058xf1&_p=1790351030911&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1250424780.1790351036&frm=0&ngs=1&pscdl=noapi&rcb=15&sr=1440x900&uaa=x86&uab=64&uafvl=Chromium%3B152.0.7977.64%7CNot%253FA_Brand%3B24.0.0.0%7CGoogle%2520Chrome%3B152.0.7977.64&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120420414~120469145~120469153~121280970&sid=1790351036&sct=1&seg=0&dl=https%3A%2F%2Falche.studio%2F&dt=Alche%2C%20Inc&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=6013",
+    "status": 204,
+    "contentType": "text/plain",
+    "contentLength": "0"
+  },
+  {
+    "url": "https://use.typekit.net/af/12174e/0000000000000000775879f5/31/m?features=ALL&v=4&chunks=7.295.303.308.327.329.341.345.353.356.364.377.391.400.403.408.414.444.451.457&order=0",
+    "status": 200,
+    "contentType": "font/opentype",
+    "contentLength": "1167872"
+  },
+  {
+    "url": "https://use.typekit.net/af/ff2c42/000000000000000077359513/31/m?features=ALL&v=4&chunks=1.193.200.203.205.207.210.224.228.231&order=0",
+    "status": 200,
+    "contentType": "font/opentype",
+    "contentLength": "2046511"
+  },
+  {
+    "url": "https://use.typekit.net/af/a11715/0000000000000000775a0520/31/m?features=ALL&v=4&chunks=7.295.303.308.327.329.341.345.353.356.364.377.391.400.403.408.414.444.451.457&order=0",
+    "status": 200,
+    "contentType": "font/opentype",
+    "contentLength": "1425870"
+  },
+  {
+    "url": "https://alche.studio/top/service/uefn.mp4",
+    "status": 206,
+    "contentType": "video/mp4",
+    "contentLength": "22853"
+  },
+  {
+    "url": "https://alche.studio/top/service/ue.mp4",
+    "status": 206,
+    "contentType": "video/mp4",
+    "contentLength": "37883"
+  },
+  {
+    "url": "https://alche.studio/top/service/stellla.mp4",
+    "status": 206,
+    "contentType": "video/mp4",
+    "contentLength": "83625"
+  },
+  {
+    "url": "https://use.typekit.net/af/60baf5/00000000000000007735eb40/31/m?features=ALL&v=4&chunks=3.168.319.325.333.341.344.359.362.365&order=0",
+    "status": 200,
+    "contentType": "font/opentype",
+    "contentLength": "813803"
+  },
+  {
+    "url": "https://alche.studio/favicon.png",
+    "status": 200,
+    "contentType": "image/png",
+    "contentLength": "897"
+  },
+  {
+    "url": "https://alche.studio/top/service/ue.mp4",
+    "status": 206,
+    "contentType": "video/mp4",
+    "contentLength": "857083"
+  },
+  {
+    "url": "https://alche.studio/top/service/uefn.mp4",
+    "status": 206,
+    "contentType": "video/mp4",
+    "contentLength": "350533"
+  },
+  {
+    "url": "https://alche.studio/top/service/stellla.mp4",
+    "status": 206,
+    "contentType": "video/mp4",
+    "contentLength": "1885865"
+  },
+  {
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-R00M7W3JTS&gtm=45je69o0h2v9118491058za200zd9118491058xf1&_p=1790351030911&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&cid=1250424780.1790351036&frm=0&ngs=1&pscdl=noapi&rcb=15&sr=1440x900&uaa=x86&uab=64&uafvl=Chromium%3B152.0.7977.64%7CNot%253FA_Brand%3B24.0.0.0%7CGoogle%2520Chrome%3B152.0.7977.64&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&_s=2&tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120420414~120469145~120469153~121280970&sid=1790351036&sct=1&seg=1&dl=https%3A%2F%2Falche.studio%2F&dt=Alche%2C%20Inc&en=scroll&epn.percent_scrolled=90&_et=25101&tfd=36246",
+    "status": 204,
+    "contentType": "text/plain",
+    "contentLength": "0"
+  }
+]
