@@ -1,0 +1,14 @@
+{
+  "name": "shopify-winter2026-clone",
+  "version": "1.0.0",
+  "description": "100% authentic, fully animated, offline clone of Shopify Editions Winter 2026 (shopify.com/editions/winter2026) featuring Three.js WebGL scenes, Theatre.js timelines, 55 3D GLB models, and 27 Rive vector animations.",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "check": "node scripts/verify.mjs",
+    "download:assets": "nice -n 19 python3 scripts/download-all-assets.py"
+  },
+  "author": "Ravi Arnan <raviarnankeren@gmail.com>",
+  "license": "UNLICENSED"
+}

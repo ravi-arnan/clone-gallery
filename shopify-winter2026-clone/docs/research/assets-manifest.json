@@ -1,0 +1,3336 @@
+{
+  "total_files": 825,
+  "total_bytes": 459882077,
+  "categories": {
+    "3d_models": [
+      {
+        "path": "cdn.shopify.com/3d/models/362039553a5d18aa/coin-reduced.glb",
+        "size": 77800
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/0285be8865787635/EW26_Developer_251207v5_compressed-optimized.glb",
+        "size": 748640
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/0337cd9bc6d18b55/Renaissance_Globe_251209v2-optimized.glb",
+        "size": 81684
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/050abac967c03cb4/Shipping_bg_diffuse-optimized.glb",
+        "size": 364768
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/0842f359e90c0b86/B2B_fg_smaller_251127_compressed-optimizedv2.usdz",
+        "size": 3803323
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/18fc3b4cf33f180e/Operations_bg_diffuse-optimized.usdz",
+        "size": 127822
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/298ae6bd3014ccd6/Marketing_fg_smaller_251127_compressed-optimized.usdz",
+        "size": 2166300
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/2e684892a34b58b8/EW26_Marketing_251209v4_compressed-optimized.glb",
+        "size": 442256
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/2f9637a8c00c276d/Retail_mg_251205v2_compressed-optimized.glb",
+        "size": 807564
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/340659b51fac6b47/Finance_bg_diffuse-optimized.glb",
+        "size": 139488
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/3617f4f10abc0d3f/Shipping_fg_smaller_251127_compressed-optimized.usdz",
+        "size": 1420242
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/374d9fa10f309fae/Shipping_fg_smaller_251127_compressed-optimized.glb",
+        "size": 578904
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/3ee03829a1050ecd/Checkout_bg_diffuse-optimized.glb",
+        "size": 408548
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/3ffd3b2a5abbe541/EW26_ShopApp_251208v3_compressed-optimized.glb",
+        "size": 547612
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/41acf23844742b83/EW26_Sidekick_251207v4_compressed-optimized.usdz",
+        "size": 1330083
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/46aedb6ec0619620/EW26_Online_251209v3_compressed-optimized.glb",
+        "size": 736028
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/4f6a13588214983f/ShopApp_bg_diffuse-optimized.glb",
+        "size": 166216
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/4f9c8df8ca1cdca6/EW26_Sidekick_bg_stars-optimized.usdz",
+        "size": 247144
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/510af84586abddc1/EW26_Agentic_Props_251209v5_compressed-optimized.glb",
+        "size": 191324
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/51718f8b2d221d54/EW26_Hero_251205_compressed-optimized.glb",
+        "size": 1015816
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/572da57473b77962/Marketing_fg_smaller_251127_compressed-optimized.glb",
+        "size": 602192
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/57ca40b3864d9099/Developer_bg_diffuse-optimized.usdz",
+        "size": 333371
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/5f70ef4dd8506401/EW26_ShopApp_251128v2_compressed-optimized.usdz",
+        "size": 1750551
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/614d6d0fa1836313/EW26_Finance_251208v2_compressed-optimized.glb",
+        "size": 1014140
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/63ac5b514230f82a/EW26_Sidekick_251208_compressed-optimized.glb",
+        "size": 499776
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/6c9b3bf2f335a314/EW26_Sidekick_251207v4_compressed-optimized.glb",
+        "size": 491520
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/71cef4bb822ef620/EW26_Developer_251128_compressed-optimized.glb",
+        "size": 748308
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/7293d075302eb118/Developer_bg_diffuse-optimized.glb",
+        "size": 332160
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/73f4d9f62ba07f6e/EW26_B2B_251205v2_compressed-optimized.glb",
+        "size": 774396
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/769326e346db969d/Operations_bg_diffuse-optimized.glb",
+        "size": 126580
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/7940f13af7d4b91d/Finance_bg_diffuse-optimized.usdz",
+        "size": 140728
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/7aca351ff49a1198/Checkout_fg_smaller_251127_compressed-optimized.glb",
+        "size": 577824
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/7b3adea2cd3c35d2/finance_fg_smaller_251127_compressed-optimized.glb",
+        "size": 938720
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/7ef7c7e3f77e5287/Online_fg_smaller_251127_compressed-optimized.glb",
+        "size": 682956
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/843b7bb45340b0c3/EW26_Hero_251207v3_compressed-optimized.glb",
+        "size": 1080492
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/8e0e54b39db04d33/Operations_fg_smaller_251127_compressed-optimized.usdz",
+        "size": 7889097
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/9567eaad495dfa3f/Rigged_Book_CS_Animated_V5_compressed-optimized.glb",
+        "size": 134996
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/9eeb64e8194faa39/POS_V53_environment_251209v2_compressed-optimized.glb",
+        "size": 890072
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/a7109edea3880390/ShopApp_bg_diffuse-optimized.usdz",
+        "size": 167452
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/a93ee5e6385f90ed/EW26_Developer_251128_compressed-optimized.usdz",
+        "size": 1699708
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/acf91c42ebab95a4/Online_fg_smaller_251127_compressed-optimized.usdz",
+        "size": 2168825
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/ad8304c798d3e40b/Shipping_bg_diffuse-optimized.usdz",
+        "size": 365978
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/afdc0c2ff1f73892/finance_fg_smaller_251127_compressed-optimized.usdz",
+        "size": 3480246
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/b44ac013cda7d317/EW26_Operations_251207_compressed-optimized.glb",
+        "size": 512248
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/bba83c9869d8879f/Agentic_fg_251209_compressed-optimized.glb",
+        "size": 287540
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/bfd049ad36539eb4/Checkout_bg_diffuse-optimized.usdz",
+        "size": 409772
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/c4626bed57ec9dff/B2B_fg_smaller_251127_compressed-optimizedv2.glb",
+        "size": 892208
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/c5f5a23df96c6f2f/EW26_Hero_251205_compressed-optimized.usdz",
+        "size": 3782155
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/d7e9deb5f8a6f4bd/Operations_fg_smaller_251127_compressed-optimized.glb",
+        "size": 743312
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/e51a31d48a973f83/POS_v53_Hub_251208v2_compressed-optimized.glb",
+        "size": 325252
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/e8cd2871309d6b03/EW26_Shipping_251204_compressed-optimized.glb",
+        "size": 753644
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/f10427420c475b24/EW26_ShopApp_251128v2_compressed-optimized.glb",
+        "size": 512248
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/f6baf7645c1fa52e/EW26_Sidekick_bg_stars-optimized.glb",
+        "size": 245908
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/f889c7c758e60536/EW26_Checkout_251209_compressed-optimized.glb",
+        "size": 569548
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/f8cc4911eb12bc06/key.glb",
+        "size": 331684
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/3d/models/o/fe5b900c13d77929/Checkout_fg_smaller_251127_compressed-optimized.usdz",
+        "size": 1920627
+      }
+    ],
+    "theatre_states": [
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/HeroScene.theatre-project-state_15.json",
+        "size": 50279
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/ShopAppScene.theatre-project-state_8.json",
+        "size": 18379
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/FinanceScene.theatre-project-state_7.json",
+        "size": 15261
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/B2BScene.theatre-project-state_4.json",
+        "size": 17949
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/OnlineScene.theatre-project-state_1_5a646934-a79e-49ac-80a9-825d8a3fb221.json",
+        "size": 44735
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/SidekickScene.theatre-project-state_14_910d17ff-f5fb-4da0-920e-1b66f8d229b3.json",
+        "size": 52459
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/RetailScene.theatre-project-state-cs-251209v2_b28f3c6c-7ab6-4036-9ac4-9f48df3024f0.json",
+        "size": 66653
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/AgenticScene.theatre-project-state.json",
+        "size": 44272
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/ShippingScene.theatre-project-state_12.json",
+        "size": 28979
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/CheckoutScene.theatre-project-state_13.json",
+        "size": 23319
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/MarketingScene.theatre-project-state_12.json",
+        "size": 34969
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/DeveloperScene.theatre-project-state_5.json",
+        "size": 50001
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/OperationsScene.theatre-project-state_8.json",
+        "size": 33455
+      }
+    ],
+    "rive_animations": [
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/apps_1_12_16.riv",
+        "size": 95661
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/apps_2_12_9_v2.riv",
+        "size": 148314
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/apps_3_12_9_v2.riv",
+        "size": 139985
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/apps_4_12_9.riv",
+        "size": 90114
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/chatgpt_12_10_v5.riv",
+        "size": 59426
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/flow_12_9.riv",
+        "size": 54988
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/apps_5_12_9_v2.riv",
+        "size": 124115
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/dev_dash_12_8.riv",
+        "size": 87533
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rollouts_12_9_v2.riv",
+        "size": 78122
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/pulse_12_10.riv",
+        "size": 141831
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/themes_12_9_v9.riv",
+        "size": 87249
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/sim_gym_12_9.riv",
+        "size": 201995
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u151_12_9_v5.riv",
+        "size": 154227
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u15_12_9_v2.riv",
+        "size": 124185
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u16_12_9_v3.riv",
+        "size": 22237
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u113_12_9.riv",
+        "size": 29739
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u2_12_10.riv",
+        "size": 81034
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u132_12_9_v10.riv",
+        "size": 55220
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u5_12_9.riv",
+        "size": 23958
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u7_12_16.riv",
+        "size": 80492
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u6_12_9_v2.riv",
+        "size": 81001
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u172_12_9.riv",
+        "size": 18077
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u200_12_9.riv",
+        "size": 57106
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u8_12_10.riv",
+        "size": 97554
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u82_12_2.riv",
+        "size": 27245
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u50_12_8.riv",
+        "size": 214656
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u95_12_1_v5.riv",
+        "size": 9369
+      }
+    ],
+    "fonts": [
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/389d4f8566b3b9cbe083b682c7fabf06.woff2",
+        "size": 15572
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/3ee238256136fcfdfca35decbd44d0d4.woff2",
+        "size": 24792
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/49a57a6e59f6a50f0627418abeb58fec.woff2",
+        "size": 30440
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/c7940dc3df669ae1f3849427d60e196f.ttf",
+        "size": 25176
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/5e4f1f9da7ccc96243038d38075551e9.ttf",
+        "size": 30440
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/7afd6fda87d6d8283f25b009dcd0d423.ttf",
+        "size": 15600
+      }
+    ],
+    "stylesheets": [
+      {
+        "path": "oxygen-assets/tailwind-G-N6aznT.css",
+        "size": 129725
+      },
+      {
+        "path": "oxygen-assets/fonts-latin-CzfLCQn_.css",
+        "size": 917
+      },
+      {
+        "path": "cdn.shopify.com/oxygen-v2/47215/49013/102837/4351350/assets/fonts-latin-CzfLCQn_.css",
+        "size": 1055
+      },
+      {
+        "path": "cdn.shopify.com/oxygen-v2/47215/49013/102837/4351350/assets/tailwind-G-N6aznT.css",
+        "size": 129725
+      }
+    ],
+    "scripts": [
+      {
+        "path": "oxygen-assets/(_locale).editions.winter2026_.key-sp1xOiXn.js",
+        "size": 1092
+      },
+      {
+        "path": "oxygen-assets/entry.client-CXIPWjPz.js",
+        "size": 4536
+      },
+      {
+        "path": "oxygen-assets/constants-NW-dxha3.js",
+        "size": 54772
+      },
+      {
+        "path": "oxygen-assets/FinanceScene-BDwc32O0.js",
+        "size": 1208
+      },
+      {
+        "path": "oxygen-assets/Button-DiM4TpFi.js",
+        "size": 34670
+      },
+      {
+        "path": "oxygen-assets/components-BdJai906.js",
+        "size": 252121
+      },
+      {
+        "path": "oxygen-assets/(_locale).editions.winter2026.cart-pnfLMdFJ.js",
+        "size": 314
+      },
+      {
+        "path": "oxygen-assets/(_locale).editions.winter2026.merch-DomVlj_6.js",
+        "size": 316
+      },
+      {
+        "path": "oxygen-assets/AgenticScene-CjbqotvP.js",
+        "size": 1208
+      },
+      {
+        "path": "oxygen-assets/FallbackImageScene-UE1mO4Xz.js",
+        "size": 3579
+      },
+      {
+        "path": "oxygen-assets/PopupChannel-BMQolA7i.js",
+        "size": 2044
+      },
+      {
+        "path": "oxygen-assets/MarketingScene-Dfjygwwd.js",
+        "size": 1214
+      },
+      {
+        "path": "oxygen-assets/Background-CGKUhMwd.js",
+        "size": 1045502
+      },
+      {
+        "path": "oxygen-assets/rive-DN8nxF7J.js",
+        "size": 175564
+      },
+      {
+        "path": "oxygen-assets/root-CklYXyH2.js",
+        "size": 10408
+      },
+      {
+        "path": "oxygen-assets/(_locale)._-DtCUJE-g.js",
+        "size": 96
+      },
+      {
+        "path": "oxygen-assets/(_locale).editions.winter2026.video._handle-CeFMqxSY.js",
+        "size": 223
+      },
+      {
+        "path": "oxygen-assets/(_locale)._index-l0sNRNKZ.js",
+        "size": 55
+      },
+      {
+        "path": "oxygen-assets/(_locale).editions.winter2026.test-500-CSxRPO1x.js",
+        "size": 123
+      },
+      {
+        "path": "oxygen-assets/RetailScene-C_gTk6Ga.js",
+        "size": 1205
+      },
+      {
+        "path": "oxygen-assets/GlobalNavigationContainer-DD0GcKXP.js",
+        "size": 44346
+      },
+      {
+        "path": "oxygen-assets/(_locale).editions.winter2026-DhFtUF58.js",
+        "size": 243259
+      },
+      {
+        "path": "oxygen-assets/DeveloperScene-BjLCbQRY.js",
+        "size": 1214
+      },
+      {
+        "path": "oxygen-assets/SidekickScene-BjZodfEY.js",
+        "size": 1223
+      },
+      {
+        "path": "oxygen-assets/manifest-40e0f26c.js",
+        "size": 3784
+      },
+      {
+        "path": "oxygen-assets/RiveInner-BZXVDs83.js",
+        "size": 4954
+      },
+      {
+        "path": "oxygen-assets/HeroScene-BSrKcflv.js",
+        "size": 1174
+      },
+      {
+        "path": "oxygen-assets/detect-gpu.esm-rYSyepAo.js",
+        "size": 6887
+      },
+      {
+        "path": "oxygen-assets/(_locale).editions.winter2026-DbqN2bd0.js",
+        "size": 336
+      },
+      {
+        "path": "oxygen-assets/B2BScene-DkNPida2.js",
+        "size": 1196
+      },
+      {
+        "path": "oxygen-assets/CheckoutScene-zmnsTHZx.js",
+        "size": 5133
+      },
+      {
+        "path": "oxygen-assets/meta-CwiYJk4F.js",
+        "size": 678
+      },
+      {
+        "path": "oxygen-assets/index-C9-WQbCX.js",
+        "size": 56277
+      },
+      {
+        "path": "oxygen-assets/useLogError-_a0fPD4U.js",
+        "size": 5020
+      },
+      {
+        "path": "oxygen-assets/ShopAppScene-BGpEYXgJ.js",
+        "size": 1208
+      },
+      {
+        "path": "oxygen-assets/OperationsScene-DdGQqwgR.js",
+        "size": 7416
+      },
+      {
+        "path": "oxygen-assets/ShippingScene-CzO3hhHj.js",
+        "size": 6963
+      },
+      {
+        "path": "oxygen-assets/OnlineScene-BMHIFUKS.js",
+        "size": 1205
+      },
+      {
+        "path": "oxygen-assets/Effects-WhEp4HUr.js",
+        "size": 66485
+      },
+      {
+        "path": "oxygen-assets/Butterflies-DLjrCfBq.js",
+        "size": 128834
+      },
+      {
+        "path": "oxygen-assets/index-CMQ6Y8fQ.js",
+        "size": 86791
+      },
+      {
+        "path": "oxygen-assets/index-BYdhAta1.js",
+        "size": 20201
+      },
+      {
+        "path": "oxygen-assets/log-seo-tags-TY72EQWZ-DCHH-_Gl.js",
+        "size": 1394
+      },
+      {
+        "path": "oxygen-assets/ErrorPage-ZY_8jFSV.js",
+        "size": 1608
+      },
+      {
+        "path": "oxygen-assets/index-DlUscFuU.js",
+        "size": 762417
+      },
+      {
+        "path": "oxygen-assets/useObjectInteraction-DzmBY6bM.js",
+        "size": 2042
+      },
+      {
+        "path": "oxygen-assets/humanSignal-Z6CKM37D-Dcs_BXyV.js",
+        "size": 1200
+      },
+      {
+        "path": "oxygen-assets/deviceSignal-4BHST67P-BCSpu7j9.js",
+        "size": 3294
+      },
+      {
+        "path": "oxygen-assets/ActiveConsentCompact-Z2BWK77P-CUcMzbcs.js",
+        "size": 41342
+      },
+      {
+        "path": "oxygen-assets/CoinRain-HBhd1OxE.js",
+        "size": 3882
+      },
+      {
+        "path": "oxygen-assets/index-DjMcNB3l.js",
+        "size": 86175
+      },
+      {
+        "path": "oxygen-assets/popupHandlerSingleton-2vRzuSP5.js",
+        "size": 6255
+      },
+      {
+        "path": "oxygen-assets/useKeyPopupStore-CsnTdT4G.js",
+        "size": 1024
+      },
+      {
+        "path": "oxygen-assets/index-BvH3oQ_y.js",
+        "size": 33892
+      },
+      {
+        "path": "oxygen-assets/content-6EOPLGFU-C6KZPGhG.js",
+        "size": 2327
+      },
+      {
+        "path": "oxygen-assets/content-GMHRNDS7-D8OsfIAb.js",
+        "size": 2687
+      },
+      {
+        "path": "oxygen-assets/content-AUM22KXZ-8OZGkFy8.js",
+        "size": 2341
+      },
+      {
+        "path": "oxygen-assets/content-PE6O2CJM-BrsXfRTq.js",
+        "size": 2461
+      },
+      {
+        "path": "oxygen-assets/content-2E5MZZ3I-DfZcQsZr.js",
+        "size": 2577
+      },
+      {
+        "path": "oxygen-assets/content-ZXLK7O4K-BfdOby4J.js",
+        "size": 2502
+      },
+      {
+        "path": "oxygen-assets/content-UCSI3HNT-D4-ps2uz.js",
+        "size": 2526
+      },
+      {
+        "path": "oxygen-assets/content-DHKYITNL-CZBWNyn9.js",
+        "size": 2507
+      },
+      {
+        "path": "www.gstatic.com/draco/versioned/decoders/1.5.6/draco_wasm_wrapper.js",
+        "size": 58763
+      },
+      {
+        "path": "www.gstatic.com/draco/versioned/decoders/1.5.6/draco_decoder.js",
+        "size": 719410
+      }
+    ],
+    "decoders": [
+      {
+        "path": "www.gstatic.com/draco/versioned/decoders/1.5.6/draco_decoder.wasm",
+        "size": 285747
+      }
+    ],
+    "videos": [
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/01d00868b512c9a04e37fd4600f5d80d.webm",
+        "size": 255087
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/06b2b144327d78b9d0dab5c3e82c56dd.webm",
+        "size": 152291
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/043fe6052c351992ce1d3783dee3888f.webm",
+        "size": 378695
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/126c9ae0be1a68f37ef44481e83cedfc.mp4",
+        "size": 421302
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/1789159c56fc8e6c558fd5212d71a7f2.webm",
+        "size": 320350
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/0d598682dd2df197996396cde1bb1c6d.mp4",
+        "size": 914572
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/17350d40ea9a19f836f1fdcec02b8ae0.mp4",
+        "size": 679151
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/196970a0409aab947f8336920113f8a3.mp4",
+        "size": 538018
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/36c19199093173f378c64fa38090c7c2.webm",
+        "size": 79823
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/2608aba5b58194e499ad1fff0d06eb3c.webm",
+        "size": 282759
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/21e5a544ef9caee113d3f81dd53f9f47.mp4",
+        "size": 882247
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/39030044140f40eccae29a79791044f4.webm",
+        "size": 456728
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/2fbe5e89199e1f7ae50f83a17e95314e.webm",
+        "size": 1115957
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/3fffe07efae332779d1d49cab33ff14c.webm",
+        "size": 128969
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/33f83e563abbc54bb5a9af6ecc473901.webm",
+        "size": 922527
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/494267605d8145b0f01e84cf8d0c11c7.webm",
+        "size": 159699
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/4c93e5423de40409e383951066e9e778.webm",
+        "size": 198196
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/495da7f4daa9b60b329e517a53df02e9.mp4",
+        "size": 339090
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/4db3219bcc8e0eff0766af51145dbe00.webm",
+        "size": 158123
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/5c15386e1ac48f8662d52ed2aa2692c3.mp4",
+        "size": 95166
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/59717a03d4acc1e6c71d00d972ae5ede.webm",
+        "size": 236402
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/3cab5c2925265e9ca4189a29941414c9.mp4",
+        "size": 1257109
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/56e9b9709510a4b34189d24e53749032.webm",
+        "size": 659255
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/5cb298eff1d2a54a9a7693946cc0ae19.mp4",
+        "size": 421882
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/4d3c41f335b4b4b8be016f9693161163.webm",
+        "size": 692600
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/6bf98c66a2a2b284ece7c7b56e7f0463.webm",
+        "size": 213120
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/67dcc7416b49086d020c650531a6ed12.mp4",
+        "size": 780414
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/69216783af520c62a694a6c905100c59.mp4",
+        "size": 335475
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/78603564f6951334ae4a55f529d39f43.mp4",
+        "size": 283971
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/7f26072f01ea5c72c658851866dde832.mp4",
+        "size": 294844
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/78af3d40bf7342bd7e04c3a7df194a98.mp4",
+        "size": 309450
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/7f07581cc83df398399dfb48b11dc743.mp4",
+        "size": 410831
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/6a74605d556064570bdd3bdb5befa8a7.mp4",
+        "size": 902034
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/89ddb7146a8536f8ba5e2ad70b7ef6f7.webm",
+        "size": 67336
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/837faa312f7d981e0bd127b390115fae.webm",
+        "size": 319068
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/82f612ec4a4574bc7949c1758c1d02e3.mp4",
+        "size": 868170
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/9000754bbebd6228af69b2b5d77f779a.webm",
+        "size": 272015
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/968d5dca276adf30b6aedf01e125fb60.webm",
+        "size": 213912
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/96e2f7088b7d57652bd2a3ce1f047877.webm",
+        "size": 182368
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/8eab8e5ddc95d68b9daa71eb5e5c757c.webm",
+        "size": 851659
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/938e029e346b9242caaa10713143af34.mp4",
+        "size": 437100
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/98fc2c4d347cbd4d8dc165280d891008.mp4",
+        "size": 409966
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/82ae8cc017937429bb615a203797da83.mp4",
+        "size": 1367064
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/a2d2418242ede77347dad94175690815.mp4",
+        "size": 342870
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/a3f9aec4de6274bb90036fc640b720ca.mp4",
+        "size": 295300
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/9ae7512f4f43c706de82716d53362942.webm",
+        "size": 606334
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/a6f1fd383fe2127e9926d1f00a35044a.mp4",
+        "size": 374125
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/aa10848227f17c1f0ae086225f8e6eca.webm",
+        "size": 152923
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/a271c6d4c863a59d78660303badcafe7.webm",
+        "size": 502786
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/aaa1dba50c78f8cf63994d53ee1e8568.mp4",
+        "size": 104887
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/ac7da46d026328273955e8aad80962fc.mp4",
+        "size": 106356
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/b838a0a9b4727e9c0622f8bd88237b02.webm",
+        "size": 480874
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/bc0a9638ef8ac043669da964fefbf5c8.mp4",
+        "size": 279266
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/aa20f770edb814a1e8b60c0b378b8bc0.webm",
+        "size": 1723681
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/a20d64a768e729d0a45a974c9cbb494e.mp4",
+        "size": 1864254
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/bfcb9099d302fe272448a4fe09c10e87.webm",
+        "size": 431562
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/b41c10619fd54ae329021cbfcee10c3b.mp4",
+        "size": 1395930
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/c289c80ca4a475f2010738ccf897639e.webm",
+        "size": 206847
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/c8bb84dbbd2266b09d9f6811dd77cb34.webm",
+        "size": 176712
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/bbb0a1ddcf79501cf400b0db6c7d3f96.mp4",
+        "size": 1637830
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/c31b4a306a9e811f2a8e7f84ce86e761.mp4",
+        "size": 280407
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/d691920898948eba75f931fc0357d2b5.webm",
+        "size": 185771
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/deb94092d05eef867322115bd88720aa.webm",
+        "size": 131489
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/c8e39ff475f8e8153b234080e162cb6b.webm",
+        "size": 431099
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/e1593488f220dd98046751f716a5fd54.mp4",
+        "size": 297202
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/e8bcdcea7dd10f8122cf04c7f1671e5d.webm",
+        "size": 713305
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/e32782c4c2c375e9c78d5910b0511c1c.webm",
+        "size": 504213
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/ec217b5f4f15f27c58660dd6ceebea69.mp4",
+        "size": 813216
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/f72a0f02760d1106064f2f401ba0761d.webm",
+        "size": 83692
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/ea1a577540dbceea63e07f932d84bd1e.mp4",
+        "size": 1278968
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/ee86942ef07c61e340e3a0512676a0a0.mp4",
+        "size": 909885
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/f144ad9dc480df6213915c7fb5126710.mp4",
+        "size": 767631
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/f4b8390ee315ae07a490ecd4dc3f6137.webm",
+        "size": 844683
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/df2369708a496fd21fe60390e9b17c76.mp4",
+        "size": 2926207
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/fefcb83ba2552c7dd72205ade02897ca.mp4",
+        "size": 1094238
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/fc31d019910f7bc9d78ea9a954fe6e40.mp4",
+        "size": 1378122
+      },
+      {
+        "path": "cdn.shopify.com/videos/c/o/v/b201bb23d69f4a748de0ad9a500f4d4c.mp4",
+        "size": 873628
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/videos/c/vp/0dfe781a187d48cfa581ed2b1ad6a5ed/0dfe781a187d48cfa581ed2b1ad6a5ed.SD-480p-0.9Mbps-64844032.mp4",
+        "size": 1160640
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/videos/c/vp/0dfe781a187d48cfa581ed2b1ad6a5ed/0dfe781a187d48cfa581ed2b1ad6a5ed.HD-720p-1.6Mbps-64844032.mp4",
+        "size": 2080896
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/videos/c/vp/0dfe781a187d48cfa581ed2b1ad6a5ed/0dfe781a187d48cfa581ed2b1ad6a5ed.HD-1080p-2.5Mbps-64844032.mp4",
+        "size": 3269715
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/videos/c/vp/2ace8284aebc4d22901886b2323bb20d/2ace8284aebc4d22901886b2323bb20d.SD-480p-0.9Mbps-64843973.mp4",
+        "size": 2535184
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/videos/c/vp/2ace8284aebc4d22901886b2323bb20d/2ace8284aebc4d22901886b2323bb20d.HD-720p-1.6Mbps-64843973.mp4",
+        "size": 4604706
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/videos/c/vp/2ace8284aebc4d22901886b2323bb20d/2ace8284aebc4d22901886b2323bb20d.HD-1080p-2.5Mbps-64843973.mp4",
+        "size": 6981443
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/videos/c/vp/5aa1f17e22044052af94fde4bb1d052c/5aa1f17e22044052af94fde4bb1d052c.SD-480p-0.9Mbps-64843660.mp4",
+        "size": 1783925
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/videos/c/vp/5aa1f17e22044052af94fde4bb1d052c/5aa1f17e22044052af94fde4bb1d052c.HD-720p-1.6Mbps-64843660.mp4",
+        "size": 3125564
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/videos/c/vp/5aa1f17e22044052af94fde4bb1d052c/5aa1f17e22044052af94fde4bb1d052c.HD-1080p-2.5Mbps-64843660.mp4",
+        "size": 4958040
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/videos/c/vp/620a0d8735da4d97b040b1cd98693898/620a0d8735da4d97b040b1cd98693898.HD-1080p-2.5Mbps-64843815.mp4",
+        "size": 2130935
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/videos/c/vp/620a0d8735da4d97b040b1cd98693898/620a0d8735da4d97b040b1cd98693898.HD-720p-1.6Mbps-64843815.mp4",
+        "size": 1422831
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/videos/c/vp/620a0d8735da4d97b040b1cd98693898/620a0d8735da4d97b040b1cd98693898.SD-480p-0.9Mbps-64843815.mp4",
+        "size": 845194
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/videos/c/vp/8459c49d89c64442b37598a6155ae301/8459c49d89c64442b37598a6155ae301.SD-480p-1.5Mbps-64727629.mp4",
+        "size": 1069539
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/videos/c/vp/8459c49d89c64442b37598a6155ae301/8459c49d89c64442b37598a6155ae301.HD-720p-4.5Mbps-64727629.mp4",
+        "size": 3117381
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/videos/c/vp/def37b82d2b5486a87cbf297a896f7d4/def37b82d2b5486a87cbf297a896f7d4.SD-480p-1.5Mbps-64727252.mp4",
+        "size": 1088811
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/videos/c/vp/def37b82d2b5486a87cbf297a896f7d4/def37b82d2b5486a87cbf297a896f7d4.HD-1080p-7.2Mbps-64727252.mp4",
+        "size": 5262730
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/videos/c/vp/def37b82d2b5486a87cbf297a896f7d4/def37b82d2b5486a87cbf297a896f7d4.HD-720p-4.5Mbps-64727252.mp4",
+        "size": 3169709
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/videos/c/vp/f432eaf126784e728aa25730b1e8fb72/f432eaf126784e728aa25730b1e8fb72.SD-480p-1.5Mbps-64523923.mp4",
+        "size": 3451774
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/videos/c/vp/f432eaf126784e728aa25730b1e8fb72/f432eaf126784e728aa25730b1e8fb72.HD-720p-4.5Mbps-64523923.mp4",
+        "size": 7714219
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/videos/c/vp/f880db5d8462441482ecbc2437cacf5d/f880db5d8462441482ecbc2437cacf5d.HD-1080p-2.5Mbps-64884899.mp4",
+        "size": 1679202
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/videos/c/vp/f880db5d8462441482ecbc2437cacf5d/f880db5d8462441482ecbc2437cacf5d.SD-480p-0.9Mbps-64884899.mp4",
+        "size": 608038
+      },
+      {
+        "path": "editions-winter-2026.myshopify.com/cdn/shop/videos/c/vp/f880db5d8462441482ecbc2437cacf5d/f880db5d8462441482ecbc2437cacf5d.HD-720p-1.6Mbps-64884899.mp4",
+        "size": 1121205
+      }
+    ],
+    "images": [
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/AGENTIC_First_Frame.png",
+        "size": 1450288
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/251201-W26-ProductNetwork-Preroroll_92123bfc-8331-4763-958d-c5ddf6562248.png",
+        "size": 3263933
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/B4.png",
+        "size": 5882186
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Agentic_fg_251207.png",
+        "size": 15177675
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/studio_small_09_1k.pmrem.ktx2",
+        "size": 465458
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/hat-sobel.webp",
+        "size": 346741
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/BG-B1.png",
+        "size": 13357667
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/BG-R.png",
+        "size": 2229020
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/BG-G.png",
+        "size": 6106359
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/BG-B2.png",
+        "size": 13293748
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/BG-3.png",
+        "size": 17304363
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Checkout_Fallback_251209.jpg",
+        "size": 569155
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Fallback_Mobile_Agentic_2x_ed265a10-0482-41f0-88a1-2be1a5b94ffc.jpg",
+        "size": 157720
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Fallback_Mobile_Checkout_2x_3d90b8e1-3861-4d8e-975c-53c1adfbff04.jpg",
+        "size": 204599
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Fallback_Mobile_B2B_2x_1353d91d-00eb-455e-bafb-18762b0240cb.jpg",
+        "size": 186741
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Fallback_Mobile_Developer_2x_a0cdd077-d691-4a02-888a-2641d7cc1c6f.jpg",
+        "size": 213342
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Fallback_Mobile_Finance_2x_7fce0bd0-4a7b-4811-8eb9-a51d52fd357b.jpg",
+        "size": 264274
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Fallback_Mobile_Marketing_2x_9bdae360-044d-4e84-a72c-19df76beae85.jpg",
+        "size": 233056
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Fallback_Mobile_Online_2x_19548bd3-08de-48b3-a780-e47cbf3fbf64.jpg",
+        "size": 227598
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Fallback_Mobile_Retail_2x_0adf909c-56a2-4df2-89c7-a8c53dfc4d85.jpg",
+        "size": 153200
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Fallback_Mobile_Shipping_2x_20393750-bbde-4f1f-ba88-24517c3ade74.jpg",
+        "size": 184913
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Fallback_Mobile_Operation_2x_db6348e7-2481-4c47-9a8b-076bb53775c3.jpg",
+        "size": 198982
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Fallback_Mobile_Shopapp_2x_9bda6267-e34e-470a-b8ff-7749b27e65bc.jpg",
+        "size": 239534
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Frame_2085655178.svg",
+        "size": 1742
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Fallback_Mobile_Sidekick_2x_ae10922b-27e9-4a86-ac5d-24de7957ea02.jpg",
+        "size": 202357
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Frame_2085655272.svg",
+        "size": 1458
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Line_Grid.svg",
+        "size": 1974
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Finance_Fallback.jpg",
+        "size": 565709
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Line_Grid-tablet.svg",
+        "size": 2106
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Marketing_Fallback.jpg",
+        "size": 627313
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Online_Fallback.jpg",
+        "size": 440852
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Rectangle_240654805.png",
+        "size": 296681
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Operations_Fallback.jpg",
+        "size": 545296
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Property_1_Developer.jpg",
+        "size": 644306
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Rectangle_240657548.jpg",
+        "size": 404488
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Shop_app_Fallback.jpg",
+        "size": 473313
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Shipping_Fallback.jpg",
+        "size": 511424
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Sidekick_Fallback.jpg",
+        "size": 601134
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/Sidekick_Preroll.00_00_00_00.Still002.png",
+        "size": 2315252
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/TINKER_PREROLL_FRAME_1.1.1.png",
+        "size": 1785359
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U105_Shopify_Email_SMS_marketing.png",
+        "size": 2529495
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U109_Forms_translations.png",
+        "size": 994519
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U113_Shop_campaigns_b91abd7b-cce5-4609-8d43-051fce88982d.png",
+        "size": 2721917
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U117_FedEx_One_Rate_Return_Labels_6-col.png",
+        "size": 882524
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/BG-Y.png",
+        "size": 15694445
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U122_Variant_default_packaging.png",
+        "size": 1397307
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U132_Quick_sale_in_Shopify_Mobile_mobile-fallback_06e42a0e-a477-4848-b7fa-760ac275943a.png",
+        "size": 1043048
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U132_Quick_sale_in_Shopify_Mobile_fd663056-4f60-4747-920f-e1b1d890383e.png",
+        "size": 1527987
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U133_Apple_watch_app_redesign.png",
+        "size": 1039983
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U143_Flexible_inventory_transfers.png",
+        "size": 570579
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U151_Personalized_Shop_storefronts_mobile-fallback_36563654-7887-4241-8439-deef7a4fbac5.png",
+        "size": 1767583
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U151_Personalized_Shop_storefronts.png",
+        "size": 2994759
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U153_Offers_in_Shop.png",
+        "size": 1146588
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U153_Offers_in_Shop_mobile-fallback.png",
+        "size": 792068
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U158_Automated_transfers_for_Shopify_Balance_payouts.png",
+        "size": 520768
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U158_Automated_transfers_for_Shopify_Balance_payouts_mobile-fallback.png",
+        "size": 599877
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U15_Sidekick_navigates.png",
+        "size": 3745460
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U163_Spend_controls_secondary_cardholders_for_Balance.png",
+        "size": 459511
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U16_Sidekick_edits_email_sections_fe9fa19b-6380-4a68-b0be-20f0043d14a1.png",
+        "size": 926898
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U163_Spend_controls_cardholders_for_Balance_mobile-fallback.png",
+        "size": 1069989
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U16_Sidekick_edits_email_sections_mobile-fallback.png",
+        "size": 506955
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U172_Capital_flex_account_0dc379db-95c4-4986-a8d3-13dfb10563f1.png",
+        "size": 2292474
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U190_pos_extension_storage_dark.png",
+        "size": 2181512
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U183_Checkout_for_web_f222b0b3-24d2-4ee2-aff2-ebf8ffb4a766.png",
+        "size": 2343274
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U1_sidekick_flow_mobile-fallback.png",
+        "size": 884212
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U200_Shop_SDK_Minis.png",
+        "size": 3707786
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U191_Faster_bulk_data_imports.png",
+        "size": 2369822
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U1_sidekick_flow_desktop-fallback.png",
+        "size": 2238575
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U20_Pulse_desktop-fallback.png",
+        "size": 4979743
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U20_Pulse_mobile-fallback.png",
+        "size": 2244160
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U223_upgrades_for_metafields.png",
+        "size": 1697547
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U226__Sidekick_app_discovery_6b57593c-579c-4a91-84af-7173ff60da83.png",
+        "size": 2280226
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U229_Admin_Intents_API.png",
+        "size": 1649264
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U230_Wordpress.png",
+        "size": 345668
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U254_Scanner_support.png",
+        "size": 273324
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U258_SimGym_desktop-fallback.png",
+        "size": 1286874
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U258_SimGym_mobile-fallback.png",
+        "size": 700288
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U253_-_App_intents_for_Sidekick.png",
+        "size": 2116121
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U270_DevDash_desktop-mobile-fallback.png",
+        "size": 1186001
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U267_Tangle.png",
+        "size": 2094147
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U37_Integrated_theme_editor.png",
+        "size": 1089337
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U2_Sidekick_help_on_segmentation_filters_4b05de5d-4b12-419d-8d71-9e9b1d6907a3.png",
+        "size": 2343806
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U3_Sidekick_Theme_edit_mobile-fallback.png",
+        "size": 1430550
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U47_Theme_index_on_mobile_mobile-fallback.png",
+        "size": 315396
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U47_Theme_index_on_mobile.png",
+        "size": 684500
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U49_Sell_subscriptions_POS.png",
+        "size": 1237632
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U53_Quick_count_POS_extension.png",
+        "size": 626039
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U50_Unified_Editor.png",
+        "size": 1272816
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U3_Sidekick_Theme_edit_desktop-fallback.png",
+        "size": 5910279
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U5_SIdekick_voice_on_mobile.png",
+        "size": 269176
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U53_Quick_count_POS_extension_mobile-fallback.png",
+        "size": 650451
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U271_Checkout_MCP.png",
+        "size": 1495897
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U62_Uber_Direct_POS_local_mobile-fallback.png",
+        "size": 1262898
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U62_Uber_Direct_POS_local.png",
+        "size": 1464559
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U6_Sidekick_file_editor_on_mobile_2e3a4bb2-d153-4fb3-a767-1d81e9d165f7.png",
+        "size": 1297850
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U6_Sidekick_file_editor_mobile-fallback.png",
+        "size": 1365843
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U71_Shopify_Collective_globally_available.png",
+        "size": 2576452
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U75_b2b_ACH_payments.png",
+        "size": 763349
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U79_Send_payment_requests_per_fulfillment.png",
+        "size": 2159454
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U7_Sidekick_in_Analytics_query_editor_242da8b7-e095-4998-9cc4-6d48fe00fa63.png",
+        "size": 3008153
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U82_Collective_Retailer_directory..png",
+        "size": 2020319
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U94_Markets_in_the_Checkout.png",
+        "size": 936422
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U98_Search_and_filter_segmentation_templates.png",
+        "size": 627084
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/apps-bg-image.png",
+        "size": 144563
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U98_Search_and_filter_segmentation_templates_mobile-fallback.png",
+        "size": 811732
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U95_Shop_Pay_button.png",
+        "size": 2512123
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U97_Rollouts_mobile-fallback_de.png",
+        "size": 2848855
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/chatgptmobileposter_12_10.webp",
+        "size": 95869
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/cloud.svg",
+        "size": 813
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/chatgptdesktopposter_12_10.webp",
+        "size": 1532715
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/compressed-DEV_AI_PREROLL_120925Still001.webp",
+        "size": 159295
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/compressed-Fallback-Retail-Frame2-Desktop.webp",
+        "size": 352900
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/U97_Rollouts_desktop-fallback_de.png",
+        "size": 6256331
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/compressed-Fallback-Retail-Frame1-Desktop.webp",
+        "size": 473610
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/compressed-Fallback-Retail-Frame3-Mobile.webp",
+        "size": 420446
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/compressed-Fallback-Retail-Frame2-Mobile.webp",
+        "size": 314462
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/compressed-pulseDesktopPoster-desktop.webp",
+        "size": 994495
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/compressed-u2poster_12_9.webp",
+        "size": 112039
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/connectivity_15bc343f-0942-4223-b315-d760c4e83562.svg",
+        "size": 1450
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/default_abdd996f-1b4e-44a5-bfcc-8addca857894.png",
+        "size": 106272
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/compressed-u8poster_12_9.webp",
+        "size": 827692
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/default_be7aaa86-31c5-433d-aae2-5b361372ccc6.png",
+        "size": 838336
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/emoji2.png",
+        "size": 16373
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/emoji1.png",
+        "size": 26602
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/emoji3.png",
+        "size": 23050
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/default_ee658e76-0d9b-46c9-b479-5baab424fb97.png",
+        "size": 923924
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/emoji4.png",
+        "size": 29115
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/emoji5.png",
+        "size": 22529
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/emoji6.png",
+        "size": 22528
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/emoji7.png",
+        "size": 17872
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/en_3a493a1f-2575-43b6-9e6e-22033556b139.png",
+        "size": 436681
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/en_4608c98d-d4f7-4d35-8b94-e83258e20e54.png",
+        "size": 1123640
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/equirectangular_map.webp",
+        "size": 135008
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/favicon_16.png",
+        "size": 978
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/favicon_256.png",
+        "size": 62871
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/favicon_32.png",
+        "size": 2603
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/en_a158fbbf-7e97-4014-9008-9eb7a719f84a.png",
+        "size": 1248966
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/health.svg",
+        "size": 391
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/hero-mobile.jpg",
+        "size": 164749
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/hero-desktop.jpg",
+        "size": 384465
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/iphonebezelnoisland-mobile.webp",
+        "size": 53905
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/flowerbg-2.png",
+        "size": 3562660
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/mfi.svg",
+        "size": 520
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/herofallback.jpg",
+        "size": 780457
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/mud_normal.webp",
+        "size": 100285
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/packed_dirt_normal_map.jpg",
+        "size": 49866
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/newProperty_1_B2B.jpg",
+        "size": 533693
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/portrait-hero-test-fallback.jpg",
+        "size": 369153
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/pos_3_compressed.webp",
+        "size": 446822
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/pos_2_compressed.webp",
+        "size": 3649792
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U113_3.webp",
+        "size": 5216
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U113_2.webp",
+        "size": 5741
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U113_1.webp",
+        "size": 7422
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U113_4.webp",
+        "size": 103833
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U113_5.webp",
+        "size": 27608
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/ren-anton.png",
+        "size": 23972
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U113_6.webp",
+        "size": 10149
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U113_7.webp",
+        "size": 9136
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U15_10.webp",
+        "size": 14258
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U15_6-mobile.webp",
+        "size": 16842
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U15_6-desktop.webp",
+        "size": 55786
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U15_3-mobile.webp",
+        "size": 34661
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U113_8.webp",
+        "size": 872298
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U15_3-desktop.webp",
+        "size": 94069
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U15_4-mobile.webp",
+        "size": 156198
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_apps_1-mobile.webp",
+        "size": 1989
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_apps_1-desktop.webp",
+        "size": 3700
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U15_7-mobile.webp",
+        "size": 170472
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U15_9.webp",
+        "size": 11563
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U15_8-desktop.webp",
+        "size": 195173
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U15_4-desktop.webp",
+        "size": 738008
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U15_8-mobile.webp",
+        "size": 99715
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_U15_7-desktop.webp",
+        "size": 431196
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_apps_3-desktop.webp",
+        "size": 4832
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_apps_4-mobile.webp",
+        "size": 2109
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_apps_2-mobile.webp",
+        "size": 1944
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_apps_2-desktop.webp",
+        "size": 3829
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_apps_5-desktop.webp",
+        "size": 3033
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_apps_4-desktop.webp",
+        "size": 3625
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_apps_5-mobile.webp",
+        "size": 1773
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_apps_3-mobile.webp",
+        "size": 2320
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_apps_6-desktop.webp",
+        "size": 2338
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_10.webp",
+        "size": 1588
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_apps_6-mobile.webp",
+        "size": 1568
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_11.webp",
+        "size": 1552
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_12.webp",
+        "size": 1551
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_1-mobile.webp",
+        "size": 65303
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_13-mobile.webp",
+        "size": 69994
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_1-desktop.webp",
+        "size": 173603
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_13-desktop.webp",
+        "size": 206264
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_14-mobile.webp",
+        "size": 70779
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_15-desktop.webp",
+        "size": 6401
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_14-desktop.webp",
+        "size": 196398
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_16-desktop.webp",
+        "size": 43314
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_16-mobile.webp",
+        "size": 17114
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_2-mobile.webp",
+        "size": 58902
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_2-desktop.webp",
+        "size": 145650
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_15-mobile.webp",
+        "size": 2836
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_3-mobile.webp",
+        "size": 54226
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_4-desktop.webp",
+        "size": 134650
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_3-desktop.webp",
+        "size": 133322
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_4-mobile.webp",
+        "size": 52702
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_5-mobile.webp",
+        "size": 42610
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_5-desktop.webp",
+        "size": 115945
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_7-desktop.webp",
+        "size": 7212
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_7-mobile.webp",
+        "size": 3410
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_6-mobile.webp",
+        "size": 64142
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_9-desktop.webp",
+        "size": 8969
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_9-mobile.webp",
+        "size": 3197
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_8-mobile.webp",
+        "size": 2777
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_8-desktop.webp",
+        "size": 5852
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_devDash_6-desktop.webp",
+        "size": 189642
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_1-desktop.webp",
+        "size": 116892
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_11-mobile.webp",
+        "size": 25788
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_1-mobile.webp",
+        "size": 41756
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_10-desktop.webp",
+        "size": 176812
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_10-mobile.webp",
+        "size": 30484
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_11-desktop.webp",
+        "size": 109726
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_2-mobile.webp",
+        "size": 35923
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_2-desktop.webp",
+        "size": 98252
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_5-desktop.webp",
+        "size": 12704
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_4-mobile.webp",
+        "size": 57786
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_3-desktop.webp",
+        "size": 241856
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_5-mobile.webp",
+        "size": 4434
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_6-desktop.webp",
+        "size": 16209
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_3-mobile.webp",
+        "size": 80499
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_6-mobile.webp",
+        "size": 5538
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_4-desktop.webp",
+        "size": 190611
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_8-mobile.webp",
+        "size": 8840
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_8-desktop.webp",
+        "size": 36565
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_7-desktop.webp",
+        "size": 26008
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_7-mobile.webp",
+        "size": 7134
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_flow_1-mobile.webp",
+        "size": 43750
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_9-mobile.webp",
+        "size": 7636
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_digest_9-desktop.webp",
+        "size": 29542
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_flow_1-desktop.webp",
+        "size": 96191
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_flow_2-mobile.webp",
+        "size": 34277
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_flow_2-desktop.webp",
+        "size": 92700
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_flow_3-mobile.webp",
+        "size": 102502
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_flow_3-desktop.webp",
+        "size": 343779
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_1-mobile.webp",
+        "size": 51743
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_flow_4-mobile.webp",
+        "size": 77066
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_1-desktop.webp",
+        "size": 158298
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_flow_4-desktop.webp",
+        "size": 301984
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_12-desktop.webp",
+        "size": 6210
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_12-mobile.webp",
+        "size": 2606
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_13-desktop.webp",
+        "size": 6473
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_10-mobile.webp",
+        "size": 186909
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_10-desktop.webp",
+        "size": 533326
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_11-desktop.webp",
+        "size": 217315
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_11-mobile.webp",
+        "size": 70500
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_13-mobile.webp",
+        "size": 2800
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_14-mobile.webp",
+        "size": 2721
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_14-desktop.webp",
+        "size": 6080
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_3-desktop.webp",
+        "size": 29967
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_2-desktop.webp",
+        "size": 28899
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_3-mobile.webp",
+        "size": 9859
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_4-desktop.webp",
+        "size": 38226
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_5-desktop.png",
+        "size": 27504
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_5-mobile.png",
+        "size": 11368
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_6-desktop.webp",
+        "size": 24713
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_7-mobile.webp",
+        "size": 4782
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_4-mobile.webp",
+        "size": 38226
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_2-mobile.webp",
+        "size": 10380
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_7-desktop.webp",
+        "size": 12331
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_6-mobile.webp",
+        "size": 8382
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_8-desktop.webp",
+        "size": 34017
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_9-desktop.webp",
+        "size": 37167
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_8-mobile.webp",
+        "size": 15539
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_rollouts_9-mobile.webp",
+        "size": 11952
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_10-desktop.webp",
+        "size": 6768
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_11-desktop.webp",
+        "size": 6460
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_11-mobile.webp",
+        "size": 3002
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_1-mobile.webp",
+        "size": 118809
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_12-desktop.webp",
+        "size": 6615
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_1-desktop.webp",
+        "size": 397280
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_12-mobile.webp",
+        "size": 3085
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_10-mobile.webp",
+        "size": 3137
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_13-mobile.webp",
+        "size": 9356
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_13-desktop.webp",
+        "size": 28132
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_15-desktop.webp",
+        "size": 13398
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_16-desktop.webp",
+        "size": 13398
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_14-desktop.webp",
+        "size": 10629
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_14-mobile.webp",
+        "size": 4416
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_15-mobile.webp",
+        "size": 5012
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_16-mobile.webp",
+        "size": 5004
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_17-mobile.webp",
+        "size": 5012
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_19-mobile.webp",
+        "size": 5012
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_18-desktop.webp",
+        "size": 15434
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_17-desktop.webp",
+        "size": 13398
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_19-desktop.webp",
+        "size": 13398
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_2-desktop.webp",
+        "size": 37470
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_2-mobile.webp",
+        "size": 14122
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_18-mobile.webp",
+        "size": 5066
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_22-mobile.webp",
+        "size": 3246
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_25-desktop.webp",
+        "size": 8042
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_20-desktop.webp",
+        "size": 35028
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_20-mobile.webp",
+        "size": 12003
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_21-desktop.webp",
+        "size": 9053
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_22-desktop.webp",
+        "size": 9053
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_21-mobile.webp",
+        "size": 3220
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_25-mobile.webp",
+        "size": 2856
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_26-mobile.webp",
+        "size": 17780
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_27-mobile.webp",
+        "size": 12156
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_3-mobile.webp",
+        "size": 12157
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_26-desktop.webp",
+        "size": 60401
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_27-desktop.webp",
+        "size": 35474
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_3-desktop.webp",
+        "size": 40127
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_4-mobile.webp",
+        "size": 3025
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_4-desktop.webp",
+        "size": 6355
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_5-desktop.webp",
+        "size": 6580
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_7-desktop.webp",
+        "size": 7183
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_6-mobile.webp",
+        "size": 2825
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_8-desktop.webp",
+        "size": 6052
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_5-mobile.webp",
+        "size": 3089
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_6-desktop.webp",
+        "size": 5875
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_7-mobile.webp",
+        "size": 3154
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_8-mobile.webp",
+        "size": 2862
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_10-desktop.webp",
+        "size": 23553
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_10-mobile.webp",
+        "size": 8766
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_1-mobile.webp",
+        "size": 186909
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_9-desktop.webp",
+        "size": 6888
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_11-desktop.webp",
+        "size": 85516
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_simGym_9-mobile.webp",
+        "size": 3232
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_1-desktop.webp",
+        "size": 533326
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_13-desktop.webp",
+        "size": 47146
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_12-desktop.webp",
+        "size": 139795
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_11-mobile.webp",
+        "size": 32612
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_12-mobile.webp",
+        "size": 41806
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_4-mobile.webp",
+        "size": 2397
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_5-desktop.webp",
+        "size": 43880
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_13-mobile.webp",
+        "size": 16351
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_3-desktop.webp",
+        "size": 49288
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_2-mobile.webp",
+        "size": 70500
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_2-desktop.webp",
+        "size": 217315
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_5-mobile.webp",
+        "size": 16471
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_6-mobile.webp",
+        "size": 3952
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_6-desktop.webp",
+        "size": 10019
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_7-mobile.webp",
+        "size": 15539
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_3-mobile.webp",
+        "size": 17103
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_7-desktop.webp",
+        "size": 34017
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_8-desktop.webp",
+        "size": 40806
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_4-desktop.webp",
+        "size": 5059
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_8-mobile.webp",
+        "size": 12391
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u132_3-desktop.webp",
+        "size": 179488
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_9-desktop.webp",
+        "size": 37167
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_theme_9-mobile.webp",
+        "size": 11952
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u132_1-mobile.webp",
+        "size": 42745
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u132_1-desktop.webp",
+        "size": 132084
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u132_3-mobile.webp",
+        "size": 41757
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u132_2-mobile.webp",
+        "size": 32744
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u132_2-desktop.webp",
+        "size": 92025
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u132_4-desktop.webp",
+        "size": 80056
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_11-desktop.webp",
+        "size": 49418
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_11-mobile.webp",
+        "size": 38187
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_12-desktop.webp",
+        "size": 6610
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_1-desktop.webp",
+        "size": 29101
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_10-mobile.webp",
+        "size": 4569
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_14-desktop.webp",
+        "size": 37244
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_15-desktop.webp",
+        "size": 27064
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_14-mobile.webp",
+        "size": 37244
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_16-desktop.webp",
+        "size": 33764
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_15-mobile.webp",
+        "size": 9321
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_16-mobile.webp",
+        "size": 37479
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_17-desktop.webp",
+        "size": 8361
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_17-mobile.webp",
+        "size": 7388
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_18-mobile.webp",
+        "size": 3607
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_18-desktop.webp",
+        "size": 9792
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_19-desktop.webp",
+        "size": 9353
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_19-mobile.webp",
+        "size": 3994
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_2-mobile.webp",
+        "size": 39199
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_2-desktop.webp",
+        "size": 45978
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_20-desktop.webp",
+        "size": 8366
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_20-mobile.webp",
+        "size": 3373
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_1-mobile.webp",
+        "size": 29101
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u132_4-mobile.webp",
+        "size": 27932
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_21-desktop.webp",
+        "size": 7988
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_12-mobile.webp",
+        "size": 2825
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_13-desktop.webp",
+        "size": 6166
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_10-desktop.webp",
+        "size": 5068
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_21-mobile.webp",
+        "size": 3467
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_13-mobile.webp",
+        "size": 2713
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_22-desktop.png",
+        "size": 45677
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_23-desktop.png",
+        "size": 39239
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_22-mobile.png",
+        "size": 45677
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_24-mobile.png",
+        "size": 49157
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_24-desktop.png",
+        "size": 49157
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_25-desktop.png",
+        "size": 47593
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_23-mobile.png",
+        "size": 39239
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_25-mobile.png",
+        "size": 47593
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_3-desktop.webp",
+        "size": 1789
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_3-mobile.webp",
+        "size": 1691
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_4-mobile.webp",
+        "size": 1839
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_5-mobile.webp",
+        "size": 1306
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_4-desktop.webp",
+        "size": 1948
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_5-desktop.webp",
+        "size": 1855
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_6-desktop.webp",
+        "size": 1820
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_6-mobile.webp",
+        "size": 1820
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_7-desktop.webp",
+        "size": 165962
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_7-mobile.webp",
+        "size": 173612
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_8-desktop.webp",
+        "size": 5857
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_3-desktop.webp",
+        "size": 12204
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_2-mobile.webp",
+        "size": 6793
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_3-mobile.webp",
+        "size": 5290
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_4-desktop.webp",
+        "size": 29293
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_4-mobile.webp",
+        "size": 11430
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_5-desktop.webp",
+        "size": 451143
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_5-mobile.webp",
+        "size": 167343
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_6-desktop.webp",
+        "size": 3619
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_6-mobile.webp",
+        "size": 3619
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_7-desktop.webp",
+        "size": 6626
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_7-mobile.webp",
+        "size": 6626
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_8-desktop.webp",
+        "size": 1977
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_8-mobile.webp",
+        "size": 1977
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_8-mobile.webp",
+        "size": 5097
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u5_1-desktop.webp",
+        "size": 1027268
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u5_1-mobile.webp",
+        "size": 264625
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_9-mobile.webp",
+        "size": 5206
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u151_9-desktop.webp",
+        "size": 5812
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_1-desktop.webp",
+        "size": 3908
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_2-desktop.webp",
+        "size": 6793
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u50_1-mobile.webp",
+        "size": 3908
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_10-desktop.webp",
+        "size": 29520
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_1-mobile.webp",
+        "size": 10373
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_1-desktop.webp",
+        "size": 31021
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_10-mobile.webp",
+        "size": 9928
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_11-desktop.webp",
+        "size": 17137
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_11-mobile.webp",
+        "size": 6457
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_12-desktop.webp",
+        "size": 18220
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_12-mobile.webp",
+        "size": 6755
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u6_3.webp",
+        "size": 402074
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_13-desktop.webp",
+        "size": 15079
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_14-desktop.webp",
+        "size": 26857
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_13-mobile.webp",
+        "size": 5180
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_14-mobile.webp",
+        "size": 8430
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_16-mobile.webp",
+        "size": 9943
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_15-mobile.webp",
+        "size": 5075
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_17-desktop.webp",
+        "size": 25274
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_15-desktop.webp",
+        "size": 14785
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_16-desktop.webp",
+        "size": 28104
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_17-mobile.webp",
+        "size": 9008
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_19-desktop.webp",
+        "size": 32866
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_19-mobile.webp",
+        "size": 10533
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_18-desktop.webp",
+        "size": 4738
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_3-desktop.webp",
+        "size": 47788
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_18-mobile.webp",
+        "size": 2143
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_2-desktop.webp",
+        "size": 16527
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_2-mobile.webp",
+        "size": 6512
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_4-mobile.webp",
+        "size": 10501
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_4-desktop.webp",
+        "size": 31774
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_3-mobile.webp",
+        "size": 13080
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_5-desktop.webp",
+        "size": 41826
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_5-mobile.webp",
+        "size": 11205
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_6-desktop.webp",
+        "size": 18938
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_6-mobile.webp",
+        "size": 6920
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_8-desktop.webp",
+        "size": 48491
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_8-mobile.webp",
+        "size": 14108
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_7-desktop.webp",
+        "size": 38850
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_9-desktop.webp",
+        "size": 12477
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_9-mobile.webp",
+        "size": 5050
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u82_7-mobile.webp",
+        "size": 11419
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u8_1-mobile.webp",
+        "size": 22160
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u8_1-desktop.webp",
+        "size": 63295
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u8_2-mobile.webp",
+        "size": 35024
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u113bg.webp",
+        "size": 54651
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/rive_u8_2-desktop.webp",
+        "size": 105435
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/texture-src-90.jpg",
+        "size": 24622
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/sidekick_digest_1-mobile.webp",
+        "size": 121680
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/sidekick_digest_1-desktop.webp",
+        "size": 408931
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/share.png",
+        "size": 1248061
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u15poster.webp",
+        "size": 153136
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u15bg.webp",
+        "size": 142188
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u16_1-mobile.webp",
+        "size": 357447
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u16_1-desktop.webp",
+        "size": 536061
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u16bg.webp",
+        "size": 302901
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u132bg.webp",
+        "size": 1189343
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u172bg.webp",
+        "size": 256540
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u16poster_desktop.webp",
+        "size": 264953
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u200_1_mobile.webp",
+        "size": 521081
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u200_2_desktop.webp",
+        "size": 391397
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u200_2_mobile.webp",
+        "size": 228485
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u200_3_desktop.webp",
+        "size": 175266
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u200_1_desktop.webp",
+        "size": 1024720
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u200bg.webp",
+        "size": 160488
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u2bg.webp",
+        "size": 136110
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u200_3_mobile.webp",
+        "size": 314819
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u2poster.webp",
+        "size": 111400
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u50bg.webp",
+        "size": 135303
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u6_1_desktop.webp",
+        "size": 78087
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u6_2_desktop.webp",
+        "size": 86682
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u5bg.webp",
+        "size": 169906
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u6bg.webp",
+        "size": 73763
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u6_2_mobile.webp",
+        "size": 335242
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u6_1_mobile.webp",
+        "size": 365962
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u6poster_mobile.png",
+        "size": 274140
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u7bg.webp",
+        "size": 240643
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u82bg.webp",
+        "size": 113623
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u95bg.webp",
+        "size": 118145
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u7poster_237e1e00-6928-4b92-8c1a-759ee28b2eaf.webp",
+        "size": 171294
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/xxl_chatgpt_handdevice-mobile.webp",
+        "size": 128458
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/xxl_gpt_1-mobile.webp",
+        "size": 53045
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/xxl_gpt_1-desktop.webp",
+        "size": 160584
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/xxl_chatgpt_thumb-mobile.webp",
+        "size": 142635
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/xxl_chatgpt_thumb-desktop.webp",
+        "size": 532264
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/u8bg.webp",
+        "size": 1494320
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/xxl_chatgpt_handdevice-desktop.webp",
+        "size": 1513242
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/preview_images/0dfe781a187d48cfa581ed2b1ad6a5ed.thumbnail.0000000000.jpg",
+        "size": 57675
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/preview_images/2ace8284aebc4d22901886b2323bb20d.thumbnail.0000000000.jpg",
+        "size": 101442
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/preview_images/5aa1f17e22044052af94fde4bb1d052c.thumbnail.0000000000.jpg",
+        "size": 68558
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/preview_images/620a0d8735da4d97b040b1cd98693898.thumbnail.0000000000.jpg",
+        "size": 115670
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/preview_images/EW26_Hero_251205_compressed-optimized.jpg",
+        "size": 53772
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/preview_images/8459c49d89c64442b37598a6155ae301.thumbnail.0000000000.jpg",
+        "size": 84585
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/preview_images/def37b82d2b5486a87cbf297a896f7d4.thumbnail.0000000000.jpg",
+        "size": 132511
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/files/preview_images/f880db5d8462441482ecbc2437cacf5d.thumbnail.0000000000.jpg",
+        "size": 144306
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/collections/Global_2x_b0f402bc-a812-47e6-b3eb-f08c3aa4f7d1.jpg",
+        "size": 344652
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/collections/developer.jpg",
+        "size": 281633
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/collections/b2b.jpg",
+        "size": 236631
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/collections/checkout.jpg",
+        "size": 326779
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/collections/operations.jpg",
+        "size": 324074
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/collections/online.jpg",
+        "size": 272889
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/collections/marketing.jpg",
+        "size": 348409
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/collections/retail.jpg",
+        "size": 279879
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/collections/shipping.jpg",
+        "size": 280395
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/collections/sidekick.jpg",
+        "size": 324434
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0951/3130/4218/collections/shop-app.jpg",
+        "size": 272676
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0647/5176/3550/files/fav-180.png",
+        "size": 12365
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0702/3204/7829/files/Editions-Winter-25-compressed.svg",
+        "size": 2538
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0842/2601/5254/files/Editions_Summer_23.svg",
+        "size": 3463
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0842/2601/5254/files/Editions_Summer_22.svg",
+        "size": 5746
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0842/2601/5254/files/Editions_Summer_24.svg",
+        "size": 3806
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0842/2601/5254/files/Editions_Winter_23.svg",
+        "size": 2668
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0842/2601/5254/files/Editions_Winter_24.svg",
+        "size": 3649
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0842/2601/5254/files/global-16-search.svg",
+        "size": 616
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0842/2601/5254/files/global-16-shrevon-down.svg",
+        "size": 266
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0842/2601/5254/files/global-16-arrow-diagonal.svg",
+        "size": 278
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0842/2601/5254/files/global-24-external-link.svg",
+        "size": 543
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0842/2601/5254/files/global-24-menu.svg",
+        "size": 266
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0921/8919/6588/files/CloseX16.svg",
+        "size": 225
+      },
+      {
+        "path": "cdn.shopify.com/s/files/1/0921/8919/6588/files/Summer2025.svg",
+        "size": 2959
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/03cf615f7c023dd5afc16904b8e4b619.png",
+        "size": 1179155
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/1a10e8fb22411e7ae54bedde20ff1ec5.png",
+        "size": 420966
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/228361bfc05b3d2c5260a542aa8c61c6.png",
+        "size": 851309
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/1bf084da109bb3fe83016948c3c88b1f.png",
+        "size": 1198817
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/3c99cfd21a3a19f095a10ee6ca179ee6.png",
+        "size": 1499929
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/26605fc719dba38d9d2a5da83312810f.png",
+        "size": 1213142
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/2ec3c3abe46eb728b0f37a9e09348011.png",
+        "size": 1534412
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/3fb74ac5ef61aeaa88b78374d3b1ab19.png",
+        "size": 880616
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/5b3c2862e3c5dcf950d0b912867ebdeb.png",
+        "size": 1050567
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/6f0d7e6128d962253121b3aec1527854.png",
+        "size": 423452
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/786dd1f1b8096bb6116dcbf0fe12893a.png",
+        "size": 910120
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/92261b18c8eb7e532e60f23ee5682d04.png",
+        "size": 1270988
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/ea4f03d63cda2a71afb54dfb50894df8.png",
+        "size": 816064
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/a230ba237d7a6d736a1ce46b084a41c6.png",
+        "size": 1458301
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/f7d363fc85e5562586d25e7b50669ae5.png",
+        "size": 1045816
+      },
+      {
+        "path": "cdn.shopify.com/b/shopify-brochure2-assets/c9c913c72ba45ce34cb2521bcaaefd07.png",
+        "size": 1204316
+      }
+    ]
+  },
+  "summary": {
+    "3d_models": 56,
+    "theatre_states": 13,
+    "rive_animations": 27,
+    "fonts": 6,
+    "stylesheets": 4,
+    "scripts": 64,
+    "decoders": 1,
+    "videos": 99,
+    "images": 555
+  },
+  "total_size_mb": 438.58
+}
